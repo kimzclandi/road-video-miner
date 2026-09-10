@@ -1,0 +1,6774 @@
+{
+  "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_tracking_image_2.zip",
+  "etag": "\"5eed58a54608975e5c81b610b8461f2b-1886\"",
+  "size": 15813146295,
+  "splits": {
+    "0000": "pool",
+    "0001": "pool",
+    "0002": "pool",
+    "0003": "pool",
+    "0004": "dev",
+    "0005": "dev",
+    "0006": "dev",
+    "0007": "dev",
+    "0008": "eval",
+    "0010": "eval",
+    "0011": "eval",
+    "0012": "eval",
+    "0013": "eval",
+    "0014": "eval",
+    "0015": "eval",
+    "0016": "eval",
+    "0017": "eval",
+    "0018": "eval",
+    "0019": "eval",
+    "0020": "eval"
+  },
+  "clips": [
+    {
+      "id": "0000-000000",
+      "sequence": "0000",
+      "split": "pool",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0000/000000.png",
+        "training/image_02/0000/000002.png",
+        "training/image_02/0000/000004.png",
+        "training/image_02/0000/000006.png",
+        "training/image_02/0000/000008.png"
+      ]
+    },
+    {
+      "id": "0000-000029",
+      "sequence": "0000",
+      "split": "pool",
+      "start_frame": 29,
+      "end_frame_exclusive": 39,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0000/000029.png",
+        "training/image_02/0000/000031.png",
+        "training/image_02/0000/000033.png",
+        "training/image_02/0000/000035.png",
+        "training/image_02/0000/000037.png"
+      ]
+    },
+    {
+      "id": "0000-000058",
+      "sequence": "0000",
+      "split": "pool",
+      "start_frame": 58,
+      "end_frame_exclusive": 68,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0000/000058.png",
+        "training/image_02/0000/000060.png",
+        "training/image_02/0000/000062.png",
+        "training/image_02/0000/000064.png",
+        "training/image_02/0000/000066.png"
+      ]
+    },
+    {
+      "id": "0000-000086",
+      "sequence": "0000",
+      "split": "pool",
+      "start_frame": 86,
+      "end_frame_exclusive": 96,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0000/000086.png",
+        "training/image_02/0000/000088.png",
+        "training/image_02/0000/000090.png",
+        "training/image_02/0000/000092.png",
+        "training/image_02/0000/000094.png"
+      ]
+    },
+    {
+      "id": "0000-000115",
+      "sequence": "0000",
+      "split": "pool",
+      "start_frame": 115,
+      "end_frame_exclusive": 125,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0000/000115.png",
+        "training/image_02/0000/000117.png",
+        "training/image_02/0000/000119.png",
+        "training/image_02/0000/000121.png",
+        "training/image_02/0000/000123.png"
+      ]
+    },
+    {
+      "id": "0000-000144",
+      "sequence": "0000",
+      "split": "pool",
+      "start_frame": 144,
+      "end_frame_exclusive": 154,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0000/000144.png",
+        "training/image_02/0000/000146.png",
+        "training/image_02/0000/000148.png",
+        "training/image_02/0000/000150.png",
+        "training/image_02/0000/000152.png"
+      ]
+    },
+    {
+      "id": "0001-000000",
+      "sequence": "0001",
+      "split": "pool",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0001/000000.png",
+        "training/image_02/0001/000002.png",
+        "training/image_02/0001/000004.png",
+        "training/image_02/0001/000006.png",
+        "training/image_02/0001/000008.png"
+      ]
+    },
+    {
+      "id": "0001-000087",
+      "sequence": "0001",
+      "split": "pool",
+      "start_frame": 87,
+      "end_frame_exclusive": 97,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0001/000087.png",
+        "training/image_02/0001/000089.png",
+        "training/image_02/0001/000091.png",
+        "training/image_02/0001/000093.png",
+        "training/image_02/0001/000095.png"
+      ]
+    },
+    {
+      "id": "0001-000175",
+      "sequence": "0001",
+      "split": "pool",
+      "start_frame": 175,
+      "end_frame_exclusive": 185,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0001/000175.png",
+        "training/image_02/0001/000177.png",
+        "training/image_02/0001/000179.png",
+        "training/image_02/0001/000181.png",
+        "training/image_02/0001/000183.png"
+      ]
+    },
+    {
+      "id": "0001-000262",
+      "sequence": "0001",
+      "split": "pool",
+      "start_frame": 262,
+      "end_frame_exclusive": 272,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0001/000262.png",
+        "training/image_02/0001/000264.png",
+        "training/image_02/0001/000266.png",
+        "training/image_02/0001/000268.png",
+        "training/image_02/0001/000270.png"
+      ]
+    },
+    {
+      "id": "0001-000350",
+      "sequence": "0001",
+      "split": "pool",
+      "start_frame": 350,
+      "end_frame_exclusive": 360,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0001/000350.png",
+        "training/image_02/0001/000352.png",
+        "training/image_02/0001/000354.png",
+        "training/image_02/0001/000356.png",
+        "training/image_02/0001/000358.png"
+      ]
+    },
+    {
+      "id": "0001-000437",
+      "sequence": "0001",
+      "split": "pool",
+      "start_frame": 437,
+      "end_frame_exclusive": 447,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0001/000437.png",
+        "training/image_02/0001/000439.png",
+        "training/image_02/0001/000441.png",
+        "training/image_02/0001/000443.png",
+        "training/image_02/0001/000445.png"
+      ]
+    },
+    {
+      "id": "0002-000000",
+      "sequence": "0002",
+      "split": "pool",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0002/000000.png",
+        "training/image_02/0002/000002.png",
+        "training/image_02/0002/000004.png",
+        "training/image_02/0002/000006.png",
+        "training/image_02/0002/000008.png"
+      ]
+    },
+    {
+      "id": "0002-000045",
+      "sequence": "0002",
+      "split": "pool",
+      "start_frame": 45,
+      "end_frame_exclusive": 55,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0002/000045.png",
+        "training/image_02/0002/000047.png",
+        "training/image_02/0002/000049.png",
+        "training/image_02/0002/000051.png",
+        "training/image_02/0002/000053.png"
+      ]
+    },
+    {
+      "id": "0002-000089",
+      "sequence": "0002",
+      "split": "pool",
+      "start_frame": 89,
+      "end_frame_exclusive": 99,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0002/000089.png",
+        "training/image_02/0002/000091.png",
+        "training/image_02/0002/000093.png",
+        "training/image_02/0002/000095.png",
+        "training/image_02/0002/000097.png"
+      ]
+    },
+    {
+      "id": "0002-000134",
+      "sequence": "0002",
+      "split": "pool",
+      "start_frame": 134,
+      "end_frame_exclusive": 144,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0002/000134.png",
+        "training/image_02/0002/000136.png",
+        "training/image_02/0002/000138.png",
+        "training/image_02/0002/000140.png",
+        "training/image_02/0002/000142.png"
+      ]
+    },
+    {
+      "id": "0002-000178",
+      "sequence": "0002",
+      "split": "pool",
+      "start_frame": 178,
+      "end_frame_exclusive": 188,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0002/000178.png",
+        "training/image_02/0002/000180.png",
+        "training/image_02/0002/000182.png",
+        "training/image_02/0002/000184.png",
+        "training/image_02/0002/000186.png"
+      ]
+    },
+    {
+      "id": "0002-000223",
+      "sequence": "0002",
+      "split": "pool",
+      "start_frame": 223,
+      "end_frame_exclusive": 233,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0002/000223.png",
+        "training/image_02/0002/000225.png",
+        "training/image_02/0002/000227.png",
+        "training/image_02/0002/000229.png",
+        "training/image_02/0002/000231.png"
+      ]
+    },
+    {
+      "id": "0003-000000",
+      "sequence": "0003",
+      "split": "pool",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0003/000000.png",
+        "training/image_02/0003/000002.png",
+        "training/image_02/0003/000004.png",
+        "training/image_02/0003/000006.png",
+        "training/image_02/0003/000008.png"
+      ]
+    },
+    {
+      "id": "0003-000027",
+      "sequence": "0003",
+      "split": "pool",
+      "start_frame": 27,
+      "end_frame_exclusive": 37,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0003/000027.png",
+        "training/image_02/0003/000029.png",
+        "training/image_02/0003/000031.png",
+        "training/image_02/0003/000033.png",
+        "training/image_02/0003/000035.png"
+      ]
+    },
+    {
+      "id": "0003-000054",
+      "sequence": "0003",
+      "split": "pool",
+      "start_frame": 54,
+      "end_frame_exclusive": 64,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0003/000054.png",
+        "training/image_02/0003/000056.png",
+        "training/image_02/0003/000058.png",
+        "training/image_02/0003/000060.png",
+        "training/image_02/0003/000062.png"
+      ]
+    },
+    {
+      "id": "0003-000080",
+      "sequence": "0003",
+      "split": "pool",
+      "start_frame": 80,
+      "end_frame_exclusive": 90,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0003/000080.png",
+        "training/image_02/0003/000082.png",
+        "training/image_02/0003/000084.png",
+        "training/image_02/0003/000086.png",
+        "training/image_02/0003/000088.png"
+      ]
+    },
+    {
+      "id": "0003-000107",
+      "sequence": "0003",
+      "split": "pool",
+      "start_frame": 107,
+      "end_frame_exclusive": 117,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0003/000107.png",
+        "training/image_02/0003/000109.png",
+        "training/image_02/0003/000111.png",
+        "training/image_02/0003/000113.png",
+        "training/image_02/0003/000115.png"
+      ]
+    },
+    {
+      "id": "0003-000134",
+      "sequence": "0003",
+      "split": "pool",
+      "start_frame": 134,
+      "end_frame_exclusive": 144,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0003/000134.png",
+        "training/image_02/0003/000136.png",
+        "training/image_02/0003/000138.png",
+        "training/image_02/0003/000140.png",
+        "training/image_02/0003/000142.png"
+      ]
+    },
+    {
+      "id": "0004-000000",
+      "sequence": "0004",
+      "split": "dev",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0004/000000.png",
+        "training/image_02/0004/000002.png",
+        "training/image_02/0004/000004.png",
+        "training/image_02/0004/000006.png",
+        "training/image_02/0004/000008.png"
+      ]
+    },
+    {
+      "id": "0004-000061",
+      "sequence": "0004",
+      "split": "dev",
+      "start_frame": 61,
+      "end_frame_exclusive": 71,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0004/000061.png",
+        "training/image_02/0004/000063.png",
+        "training/image_02/0004/000065.png",
+        "training/image_02/0004/000067.png",
+        "training/image_02/0004/000069.png"
+      ]
+    },
+    {
+      "id": "0004-000122",
+      "sequence": "0004",
+      "split": "dev",
+      "start_frame": 122,
+      "end_frame_exclusive": 132,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0004/000122.png",
+        "training/image_02/0004/000124.png",
+        "training/image_02/0004/000126.png",
+        "training/image_02/0004/000128.png",
+        "training/image_02/0004/000130.png"
+      ]
+    },
+    {
+      "id": "0004-000182",
+      "sequence": "0004",
+      "split": "dev",
+      "start_frame": 182,
+      "end_frame_exclusive": 192,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0004/000182.png",
+        "training/image_02/0004/000184.png",
+        "training/image_02/0004/000186.png",
+        "training/image_02/0004/000188.png",
+        "training/image_02/0004/000190.png"
+      ]
+    },
+    {
+      "id": "0004-000243",
+      "sequence": "0004",
+      "split": "dev",
+      "start_frame": 243,
+      "end_frame_exclusive": 253,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0004/000243.png",
+        "training/image_02/0004/000245.png",
+        "training/image_02/0004/000247.png",
+        "training/image_02/0004/000249.png",
+        "training/image_02/0004/000251.png"
+      ]
+    },
+    {
+      "id": "0004-000304",
+      "sequence": "0004",
+      "split": "dev",
+      "start_frame": 304,
+      "end_frame_exclusive": 314,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0004/000304.png",
+        "training/image_02/0004/000306.png",
+        "training/image_02/0004/000308.png",
+        "training/image_02/0004/000310.png",
+        "training/image_02/0004/000312.png"
+      ]
+    },
+    {
+      "id": "0005-000000",
+      "sequence": "0005",
+      "split": "dev",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0005/000000.png",
+        "training/image_02/0005/000002.png",
+        "training/image_02/0005/000004.png",
+        "training/image_02/0005/000006.png",
+        "training/image_02/0005/000008.png"
+      ]
+    },
+    {
+      "id": "0005-000057",
+      "sequence": "0005",
+      "split": "dev",
+      "start_frame": 57,
+      "end_frame_exclusive": 67,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0005/000057.png",
+        "training/image_02/0005/000059.png",
+        "training/image_02/0005/000061.png",
+        "training/image_02/0005/000063.png",
+        "training/image_02/0005/000065.png"
+      ]
+    },
+    {
+      "id": "0005-000115",
+      "sequence": "0005",
+      "split": "dev",
+      "start_frame": 115,
+      "end_frame_exclusive": 125,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0005/000115.png",
+        "training/image_02/0005/000117.png",
+        "training/image_02/0005/000119.png",
+        "training/image_02/0005/000121.png",
+        "training/image_02/0005/000123.png"
+      ]
+    },
+    {
+      "id": "0005-000172",
+      "sequence": "0005",
+      "split": "dev",
+      "start_frame": 172,
+      "end_frame_exclusive": 182,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0005/000172.png",
+        "training/image_02/0005/000174.png",
+        "training/image_02/0005/000176.png",
+        "training/image_02/0005/000178.png",
+        "training/image_02/0005/000180.png"
+      ]
+    },
+    {
+      "id": "0005-000230",
+      "sequence": "0005",
+      "split": "dev",
+      "start_frame": 230,
+      "end_frame_exclusive": 240,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0005/000230.png",
+        "training/image_02/0005/000232.png",
+        "training/image_02/0005/000234.png",
+        "training/image_02/0005/000236.png",
+        "training/image_02/0005/000238.png"
+      ]
+    },
+    {
+      "id": "0005-000287",
+      "sequence": "0005",
+      "split": "dev",
+      "start_frame": 287,
+      "end_frame_exclusive": 297,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0005/000287.png",
+        "training/image_02/0005/000289.png",
+        "training/image_02/0005/000291.png",
+        "training/image_02/0005/000293.png",
+        "training/image_02/0005/000295.png"
+      ]
+    },
+    {
+      "id": "0006-000000",
+      "sequence": "0006",
+      "split": "dev",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0006/000000.png",
+        "training/image_02/0006/000002.png",
+        "training/image_02/0006/000004.png",
+        "training/image_02/0006/000006.png",
+        "training/image_02/0006/000008.png"
+      ]
+    },
+    {
+      "id": "0006-000052",
+      "sequence": "0006",
+      "split": "dev",
+      "start_frame": 52,
+      "end_frame_exclusive": 62,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0006/000052.png",
+        "training/image_02/0006/000054.png",
+        "training/image_02/0006/000056.png",
+        "training/image_02/0006/000058.png",
+        "training/image_02/0006/000060.png"
+      ]
+    },
+    {
+      "id": "0006-000104",
+      "sequence": "0006",
+      "split": "dev",
+      "start_frame": 104,
+      "end_frame_exclusive": 114,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0006/000104.png",
+        "training/image_02/0006/000106.png",
+        "training/image_02/0006/000108.png",
+        "training/image_02/0006/000110.png",
+        "training/image_02/0006/000112.png"
+      ]
+    },
+    {
+      "id": "0006-000156",
+      "sequence": "0006",
+      "split": "dev",
+      "start_frame": 156,
+      "end_frame_exclusive": 166,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0006/000156.png",
+        "training/image_02/0006/000158.png",
+        "training/image_02/0006/000160.png",
+        "training/image_02/0006/000162.png",
+        "training/image_02/0006/000164.png"
+      ]
+    },
+    {
+      "id": "0006-000208",
+      "sequence": "0006",
+      "split": "dev",
+      "start_frame": 208,
+      "end_frame_exclusive": 218,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0006/000208.png",
+        "training/image_02/0006/000210.png",
+        "training/image_02/0006/000212.png",
+        "training/image_02/0006/000214.png",
+        "training/image_02/0006/000216.png"
+      ]
+    },
+    {
+      "id": "0006-000260",
+      "sequence": "0006",
+      "split": "dev",
+      "start_frame": 260,
+      "end_frame_exclusive": 270,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0006/000260.png",
+        "training/image_02/0006/000262.png",
+        "training/image_02/0006/000264.png",
+        "training/image_02/0006/000266.png",
+        "training/image_02/0006/000268.png"
+      ]
+    },
+    {
+      "id": "0007-000000",
+      "sequence": "0007",
+      "split": "dev",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0007/000000.png",
+        "training/image_02/0007/000002.png",
+        "training/image_02/0007/000004.png",
+        "training/image_02/0007/000006.png",
+        "training/image_02/0007/000008.png"
+      ]
+    },
+    {
+      "id": "0007-000158",
+      "sequence": "0007",
+      "split": "dev",
+      "start_frame": 158,
+      "end_frame_exclusive": 168,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0007/000158.png",
+        "training/image_02/0007/000160.png",
+        "training/image_02/0007/000162.png",
+        "training/image_02/0007/000164.png",
+        "training/image_02/0007/000166.png"
+      ]
+    },
+    {
+      "id": "0007-000316",
+      "sequence": "0007",
+      "split": "dev",
+      "start_frame": 316,
+      "end_frame_exclusive": 326,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0007/000316.png",
+        "training/image_02/0007/000318.png",
+        "training/image_02/0007/000320.png",
+        "training/image_02/0007/000322.png",
+        "training/image_02/0007/000324.png"
+      ]
+    },
+    {
+      "id": "0007-000474",
+      "sequence": "0007",
+      "split": "dev",
+      "start_frame": 474,
+      "end_frame_exclusive": 484,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0007/000474.png",
+        "training/image_02/0007/000476.png",
+        "training/image_02/0007/000478.png",
+        "training/image_02/0007/000480.png",
+        "training/image_02/0007/000482.png"
+      ]
+    },
+    {
+      "id": "0007-000632",
+      "sequence": "0007",
+      "split": "dev",
+      "start_frame": 632,
+      "end_frame_exclusive": 642,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0007/000632.png",
+        "training/image_02/0007/000634.png",
+        "training/image_02/0007/000636.png",
+        "training/image_02/0007/000638.png",
+        "training/image_02/0007/000640.png"
+      ]
+    },
+    {
+      "id": "0007-000790",
+      "sequence": "0007",
+      "split": "dev",
+      "start_frame": 790,
+      "end_frame_exclusive": 800,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0007/000790.png",
+        "training/image_02/0007/000792.png",
+        "training/image_02/0007/000794.png",
+        "training/image_02/0007/000796.png",
+        "training/image_02/0007/000798.png"
+      ]
+    },
+    {
+      "id": "0008-000000",
+      "sequence": "0008",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0008/000000.png",
+        "training/image_02/0008/000002.png",
+        "training/image_02/0008/000004.png",
+        "training/image_02/0008/000006.png",
+        "training/image_02/0008/000008.png"
+      ]
+    },
+    {
+      "id": "0008-000076",
+      "sequence": "0008",
+      "split": "eval",
+      "start_frame": 76,
+      "end_frame_exclusive": 86,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0008/000076.png",
+        "training/image_02/0008/000078.png",
+        "training/image_02/0008/000080.png",
+        "training/image_02/0008/000082.png",
+        "training/image_02/0008/000084.png"
+      ]
+    },
+    {
+      "id": "0008-000152",
+      "sequence": "0008",
+      "split": "eval",
+      "start_frame": 152,
+      "end_frame_exclusive": 162,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0008/000152.png",
+        "training/image_02/0008/000154.png",
+        "training/image_02/0008/000156.png",
+        "training/image_02/0008/000158.png",
+        "training/image_02/0008/000160.png"
+      ]
+    },
+    {
+      "id": "0008-000228",
+      "sequence": "0008",
+      "split": "eval",
+      "start_frame": 228,
+      "end_frame_exclusive": 238,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0008/000228.png",
+        "training/image_02/0008/000230.png",
+        "training/image_02/0008/000232.png",
+        "training/image_02/0008/000234.png",
+        "training/image_02/0008/000236.png"
+      ]
+    },
+    {
+      "id": "0008-000304",
+      "sequence": "0008",
+      "split": "eval",
+      "start_frame": 304,
+      "end_frame_exclusive": 314,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0008/000304.png",
+        "training/image_02/0008/000306.png",
+        "training/image_02/0008/000308.png",
+        "training/image_02/0008/000310.png",
+        "training/image_02/0008/000312.png"
+      ]
+    },
+    {
+      "id": "0008-000380",
+      "sequence": "0008",
+      "split": "eval",
+      "start_frame": 380,
+      "end_frame_exclusive": 390,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0008/000380.png",
+        "training/image_02/0008/000382.png",
+        "training/image_02/0008/000384.png",
+        "training/image_02/0008/000386.png",
+        "training/image_02/0008/000388.png"
+      ]
+    },
+    {
+      "id": "0010-000000",
+      "sequence": "0010",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0010/000000.png",
+        "training/image_02/0010/000002.png",
+        "training/image_02/0010/000004.png",
+        "training/image_02/0010/000006.png",
+        "training/image_02/0010/000008.png"
+      ]
+    },
+    {
+      "id": "0010-000057",
+      "sequence": "0010",
+      "split": "eval",
+      "start_frame": 57,
+      "end_frame_exclusive": 67,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0010/000057.png",
+        "training/image_02/0010/000059.png",
+        "training/image_02/0010/000061.png",
+        "training/image_02/0010/000063.png",
+        "training/image_02/0010/000065.png"
+      ]
+    },
+    {
+      "id": "0010-000114",
+      "sequence": "0010",
+      "split": "eval",
+      "start_frame": 114,
+      "end_frame_exclusive": 124,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0010/000114.png",
+        "training/image_02/0010/000116.png",
+        "training/image_02/0010/000118.png",
+        "training/image_02/0010/000120.png",
+        "training/image_02/0010/000122.png"
+      ]
+    },
+    {
+      "id": "0010-000170",
+      "sequence": "0010",
+      "split": "eval",
+      "start_frame": 170,
+      "end_frame_exclusive": 180,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0010/000170.png",
+        "training/image_02/0010/000172.png",
+        "training/image_02/0010/000174.png",
+        "training/image_02/0010/000176.png",
+        "training/image_02/0010/000178.png"
+      ]
+    },
+    {
+      "id": "0010-000227",
+      "sequence": "0010",
+      "split": "eval",
+      "start_frame": 227,
+      "end_frame_exclusive": 237,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0010/000227.png",
+        "training/image_02/0010/000229.png",
+        "training/image_02/0010/000231.png",
+        "training/image_02/0010/000233.png",
+        "training/image_02/0010/000235.png"
+      ]
+    },
+    {
+      "id": "0010-000284",
+      "sequence": "0010",
+      "split": "eval",
+      "start_frame": 284,
+      "end_frame_exclusive": 294,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0010/000284.png",
+        "training/image_02/0010/000286.png",
+        "training/image_02/0010/000288.png",
+        "training/image_02/0010/000290.png",
+        "training/image_02/0010/000292.png"
+      ]
+    },
+    {
+      "id": "0011-000000",
+      "sequence": "0011",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0011/000000.png",
+        "training/image_02/0011/000002.png",
+        "training/image_02/0011/000004.png",
+        "training/image_02/0011/000006.png",
+        "training/image_02/0011/000008.png"
+      ]
+    },
+    {
+      "id": "0011-000073",
+      "sequence": "0011",
+      "split": "eval",
+      "start_frame": 73,
+      "end_frame_exclusive": 83,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0011/000073.png",
+        "training/image_02/0011/000075.png",
+        "training/image_02/0011/000077.png",
+        "training/image_02/0011/000079.png",
+        "training/image_02/0011/000081.png"
+      ]
+    },
+    {
+      "id": "0011-000145",
+      "sequence": "0011",
+      "split": "eval",
+      "start_frame": 145,
+      "end_frame_exclusive": 155,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0011/000145.png",
+        "training/image_02/0011/000147.png",
+        "training/image_02/0011/000149.png",
+        "training/image_02/0011/000151.png",
+        "training/image_02/0011/000153.png"
+      ]
+    },
+    {
+      "id": "0011-000218",
+      "sequence": "0011",
+      "split": "eval",
+      "start_frame": 218,
+      "end_frame_exclusive": 228,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0011/000218.png",
+        "training/image_02/0011/000220.png",
+        "training/image_02/0011/000222.png",
+        "training/image_02/0011/000224.png",
+        "training/image_02/0011/000226.png"
+      ]
+    },
+    {
+      "id": "0011-000290",
+      "sequence": "0011",
+      "split": "eval",
+      "start_frame": 290,
+      "end_frame_exclusive": 300,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0011/000290.png",
+        "training/image_02/0011/000292.png",
+        "training/image_02/0011/000294.png",
+        "training/image_02/0011/000296.png",
+        "training/image_02/0011/000298.png"
+      ]
+    },
+    {
+      "id": "0011-000363",
+      "sequence": "0011",
+      "split": "eval",
+      "start_frame": 363,
+      "end_frame_exclusive": 373,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0011/000363.png",
+        "training/image_02/0011/000365.png",
+        "training/image_02/0011/000367.png",
+        "training/image_02/0011/000369.png",
+        "training/image_02/0011/000371.png"
+      ]
+    },
+    {
+      "id": "0012-000000",
+      "sequence": "0012",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0012/000000.png",
+        "training/image_02/0012/000002.png",
+        "training/image_02/0012/000004.png",
+        "training/image_02/0012/000006.png",
+        "training/image_02/0012/000008.png"
+      ]
+    },
+    {
+      "id": "0012-000014",
+      "sequence": "0012",
+      "split": "eval",
+      "start_frame": 14,
+      "end_frame_exclusive": 24,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0012/000014.png",
+        "training/image_02/0012/000016.png",
+        "training/image_02/0012/000018.png",
+        "training/image_02/0012/000020.png",
+        "training/image_02/0012/000022.png"
+      ]
+    },
+    {
+      "id": "0012-000027",
+      "sequence": "0012",
+      "split": "eval",
+      "start_frame": 27,
+      "end_frame_exclusive": 37,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0012/000027.png",
+        "training/image_02/0012/000029.png",
+        "training/image_02/0012/000031.png",
+        "training/image_02/0012/000033.png",
+        "training/image_02/0012/000035.png"
+      ]
+    },
+    {
+      "id": "0012-000041",
+      "sequence": "0012",
+      "split": "eval",
+      "start_frame": 41,
+      "end_frame_exclusive": 51,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0012/000041.png",
+        "training/image_02/0012/000043.png",
+        "training/image_02/0012/000045.png",
+        "training/image_02/0012/000047.png",
+        "training/image_02/0012/000049.png"
+      ]
+    },
+    {
+      "id": "0012-000054",
+      "sequence": "0012",
+      "split": "eval",
+      "start_frame": 54,
+      "end_frame_exclusive": 64,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0012/000054.png",
+        "training/image_02/0012/000056.png",
+        "training/image_02/0012/000058.png",
+        "training/image_02/0012/000060.png",
+        "training/image_02/0012/000062.png"
+      ]
+    },
+    {
+      "id": "0012-000068",
+      "sequence": "0012",
+      "split": "eval",
+      "start_frame": 68,
+      "end_frame_exclusive": 78,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0012/000068.png",
+        "training/image_02/0012/000070.png",
+        "training/image_02/0012/000072.png",
+        "training/image_02/0012/000074.png",
+        "training/image_02/0012/000076.png"
+      ]
+    },
+    {
+      "id": "0013-000000",
+      "sequence": "0013",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0013/000000.png",
+        "training/image_02/0013/000002.png",
+        "training/image_02/0013/000004.png",
+        "training/image_02/0013/000006.png",
+        "training/image_02/0013/000008.png"
+      ]
+    },
+    {
+      "id": "0013-000066",
+      "sequence": "0013",
+      "split": "eval",
+      "start_frame": 66,
+      "end_frame_exclusive": 76,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0013/000066.png",
+        "training/image_02/0013/000068.png",
+        "training/image_02/0013/000070.png",
+        "training/image_02/0013/000072.png",
+        "training/image_02/0013/000074.png"
+      ]
+    },
+    {
+      "id": "0013-000132",
+      "sequence": "0013",
+      "split": "eval",
+      "start_frame": 132,
+      "end_frame_exclusive": 142,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0013/000132.png",
+        "training/image_02/0013/000134.png",
+        "training/image_02/0013/000136.png",
+        "training/image_02/0013/000138.png",
+        "training/image_02/0013/000140.png"
+      ]
+    },
+    {
+      "id": "0013-000198",
+      "sequence": "0013",
+      "split": "eval",
+      "start_frame": 198,
+      "end_frame_exclusive": 208,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0013/000198.png",
+        "training/image_02/0013/000200.png",
+        "training/image_02/0013/000202.png",
+        "training/image_02/0013/000204.png",
+        "training/image_02/0013/000206.png"
+      ]
+    },
+    {
+      "id": "0013-000264",
+      "sequence": "0013",
+      "split": "eval",
+      "start_frame": 264,
+      "end_frame_exclusive": 274,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0013/000264.png",
+        "training/image_02/0013/000266.png",
+        "training/image_02/0013/000268.png",
+        "training/image_02/0013/000270.png",
+        "training/image_02/0013/000272.png"
+      ]
+    },
+    {
+      "id": "0013-000330",
+      "sequence": "0013",
+      "split": "eval",
+      "start_frame": 330,
+      "end_frame_exclusive": 340,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0013/000330.png",
+        "training/image_02/0013/000332.png",
+        "training/image_02/0013/000334.png",
+        "training/image_02/0013/000336.png",
+        "training/image_02/0013/000338.png"
+      ]
+    },
+    {
+      "id": "0014-000000",
+      "sequence": "0014",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0014/000000.png",
+        "training/image_02/0014/000002.png",
+        "training/image_02/0014/000004.png",
+        "training/image_02/0014/000006.png",
+        "training/image_02/0014/000008.png"
+      ]
+    },
+    {
+      "id": "0014-000019",
+      "sequence": "0014",
+      "split": "eval",
+      "start_frame": 19,
+      "end_frame_exclusive": 29,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0014/000019.png",
+        "training/image_02/0014/000021.png",
+        "training/image_02/0014/000023.png",
+        "training/image_02/0014/000025.png",
+        "training/image_02/0014/000027.png"
+      ]
+    },
+    {
+      "id": "0014-000038",
+      "sequence": "0014",
+      "split": "eval",
+      "start_frame": 38,
+      "end_frame_exclusive": 48,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0014/000038.png",
+        "training/image_02/0014/000040.png",
+        "training/image_02/0014/000042.png",
+        "training/image_02/0014/000044.png",
+        "training/image_02/0014/000046.png"
+      ]
+    },
+    {
+      "id": "0014-000058",
+      "sequence": "0014",
+      "split": "eval",
+      "start_frame": 58,
+      "end_frame_exclusive": 68,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0014/000058.png",
+        "training/image_02/0014/000060.png",
+        "training/image_02/0014/000062.png",
+        "training/image_02/0014/000064.png",
+        "training/image_02/0014/000066.png"
+      ]
+    },
+    {
+      "id": "0014-000077",
+      "sequence": "0014",
+      "split": "eval",
+      "start_frame": 77,
+      "end_frame_exclusive": 87,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0014/000077.png",
+        "training/image_02/0014/000079.png",
+        "training/image_02/0014/000081.png",
+        "training/image_02/0014/000083.png",
+        "training/image_02/0014/000085.png"
+      ]
+    },
+    {
+      "id": "0014-000096",
+      "sequence": "0014",
+      "split": "eval",
+      "start_frame": 96,
+      "end_frame_exclusive": 106,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0014/000096.png",
+        "training/image_02/0014/000098.png",
+        "training/image_02/0014/000100.png",
+        "training/image_02/0014/000102.png",
+        "training/image_02/0014/000104.png"
+      ]
+    },
+    {
+      "id": "0015-000000",
+      "sequence": "0015",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0015/000000.png",
+        "training/image_02/0015/000002.png",
+        "training/image_02/0015/000004.png",
+        "training/image_02/0015/000006.png",
+        "training/image_02/0015/000008.png"
+      ]
+    },
+    {
+      "id": "0015-000073",
+      "sequence": "0015",
+      "split": "eval",
+      "start_frame": 73,
+      "end_frame_exclusive": 83,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0015/000073.png",
+        "training/image_02/0015/000075.png",
+        "training/image_02/0015/000077.png",
+        "training/image_02/0015/000079.png",
+        "training/image_02/0015/000081.png"
+      ]
+    },
+    {
+      "id": "0015-000146",
+      "sequence": "0015",
+      "split": "eval",
+      "start_frame": 146,
+      "end_frame_exclusive": 156,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0015/000146.png",
+        "training/image_02/0015/000148.png",
+        "training/image_02/0015/000150.png",
+        "training/image_02/0015/000152.png",
+        "training/image_02/0015/000154.png"
+      ]
+    },
+    {
+      "id": "0015-000220",
+      "sequence": "0015",
+      "split": "eval",
+      "start_frame": 220,
+      "end_frame_exclusive": 230,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0015/000220.png",
+        "training/image_02/0015/000222.png",
+        "training/image_02/0015/000224.png",
+        "training/image_02/0015/000226.png",
+        "training/image_02/0015/000228.png"
+      ]
+    },
+    {
+      "id": "0015-000293",
+      "sequence": "0015",
+      "split": "eval",
+      "start_frame": 293,
+      "end_frame_exclusive": 303,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0015/000293.png",
+        "training/image_02/0015/000295.png",
+        "training/image_02/0015/000297.png",
+        "training/image_02/0015/000299.png",
+        "training/image_02/0015/000301.png"
+      ]
+    },
+    {
+      "id": "0015-000366",
+      "sequence": "0015",
+      "split": "eval",
+      "start_frame": 366,
+      "end_frame_exclusive": 376,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0015/000366.png",
+        "training/image_02/0015/000368.png",
+        "training/image_02/0015/000370.png",
+        "training/image_02/0015/000372.png",
+        "training/image_02/0015/000374.png"
+      ]
+    },
+    {
+      "id": "0016-000000",
+      "sequence": "0016",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0016/000000.png",
+        "training/image_02/0016/000002.png",
+        "training/image_02/0016/000004.png",
+        "training/image_02/0016/000006.png",
+        "training/image_02/0016/000008.png"
+      ]
+    },
+    {
+      "id": "0016-000040",
+      "sequence": "0016",
+      "split": "eval",
+      "start_frame": 40,
+      "end_frame_exclusive": 50,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0016/000040.png",
+        "training/image_02/0016/000042.png",
+        "training/image_02/0016/000044.png",
+        "training/image_02/0016/000046.png",
+        "training/image_02/0016/000048.png"
+      ]
+    },
+    {
+      "id": "0016-000080",
+      "sequence": "0016",
+      "split": "eval",
+      "start_frame": 80,
+      "end_frame_exclusive": 90,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0016/000080.png",
+        "training/image_02/0016/000082.png",
+        "training/image_02/0016/000084.png",
+        "training/image_02/0016/000086.png",
+        "training/image_02/0016/000088.png"
+      ]
+    },
+    {
+      "id": "0016-000119",
+      "sequence": "0016",
+      "split": "eval",
+      "start_frame": 119,
+      "end_frame_exclusive": 129,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0016/000119.png",
+        "training/image_02/0016/000121.png",
+        "training/image_02/0016/000123.png",
+        "training/image_02/0016/000125.png",
+        "training/image_02/0016/000127.png"
+      ]
+    },
+    {
+      "id": "0016-000159",
+      "sequence": "0016",
+      "split": "eval",
+      "start_frame": 159,
+      "end_frame_exclusive": 169,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0016/000159.png",
+        "training/image_02/0016/000161.png",
+        "training/image_02/0016/000163.png",
+        "training/image_02/0016/000165.png",
+        "training/image_02/0016/000167.png"
+      ]
+    },
+    {
+      "id": "0016-000199",
+      "sequence": "0016",
+      "split": "eval",
+      "start_frame": 199,
+      "end_frame_exclusive": 209,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0016/000199.png",
+        "training/image_02/0016/000201.png",
+        "training/image_02/0016/000203.png",
+        "training/image_02/0016/000205.png",
+        "training/image_02/0016/000207.png"
+      ]
+    },
+    {
+      "id": "0017-000000",
+      "sequence": "0017",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0017/000000.png",
+        "training/image_02/0017/000002.png",
+        "training/image_02/0017/000004.png",
+        "training/image_02/0017/000006.png",
+        "training/image_02/0017/000008.png"
+      ]
+    },
+    {
+      "id": "0017-000027",
+      "sequence": "0017",
+      "split": "eval",
+      "start_frame": 27,
+      "end_frame_exclusive": 37,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0017/000027.png",
+        "training/image_02/0017/000029.png",
+        "training/image_02/0017/000031.png",
+        "training/image_02/0017/000033.png",
+        "training/image_02/0017/000035.png"
+      ]
+    },
+    {
+      "id": "0017-000054",
+      "sequence": "0017",
+      "split": "eval",
+      "start_frame": 54,
+      "end_frame_exclusive": 64,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0017/000054.png",
+        "training/image_02/0017/000056.png",
+        "training/image_02/0017/000058.png",
+        "training/image_02/0017/000060.png",
+        "training/image_02/0017/000062.png"
+      ]
+    },
+    {
+      "id": "0017-000081",
+      "sequence": "0017",
+      "split": "eval",
+      "start_frame": 81,
+      "end_frame_exclusive": 91,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0017/000081.png",
+        "training/image_02/0017/000083.png",
+        "training/image_02/0017/000085.png",
+        "training/image_02/0017/000087.png",
+        "training/image_02/0017/000089.png"
+      ]
+    },
+    {
+      "id": "0017-000108",
+      "sequence": "0017",
+      "split": "eval",
+      "start_frame": 108,
+      "end_frame_exclusive": 118,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0017/000108.png",
+        "training/image_02/0017/000110.png",
+        "training/image_02/0017/000112.png",
+        "training/image_02/0017/000114.png",
+        "training/image_02/0017/000116.png"
+      ]
+    },
+    {
+      "id": "0017-000135",
+      "sequence": "0017",
+      "split": "eval",
+      "start_frame": 135,
+      "end_frame_exclusive": 145,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0017/000135.png",
+        "training/image_02/0017/000137.png",
+        "training/image_02/0017/000139.png",
+        "training/image_02/0017/000141.png",
+        "training/image_02/0017/000143.png"
+      ]
+    },
+    {
+      "id": "0018-000000",
+      "sequence": "0018",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0018/000000.png",
+        "training/image_02/0018/000002.png",
+        "training/image_02/0018/000004.png",
+        "training/image_02/0018/000006.png",
+        "training/image_02/0018/000008.png"
+      ]
+    },
+    {
+      "id": "0018-000066",
+      "sequence": "0018",
+      "split": "eval",
+      "start_frame": 66,
+      "end_frame_exclusive": 76,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0018/000066.png",
+        "training/image_02/0018/000068.png",
+        "training/image_02/0018/000070.png",
+        "training/image_02/0018/000072.png",
+        "training/image_02/0018/000074.png"
+      ]
+    },
+    {
+      "id": "0018-000132",
+      "sequence": "0018",
+      "split": "eval",
+      "start_frame": 132,
+      "end_frame_exclusive": 142,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0018/000132.png",
+        "training/image_02/0018/000134.png",
+        "training/image_02/0018/000136.png",
+        "training/image_02/0018/000138.png",
+        "training/image_02/0018/000140.png"
+      ]
+    },
+    {
+      "id": "0018-000197",
+      "sequence": "0018",
+      "split": "eval",
+      "start_frame": 197,
+      "end_frame_exclusive": 207,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0018/000197.png",
+        "training/image_02/0018/000199.png",
+        "training/image_02/0018/000201.png",
+        "training/image_02/0018/000203.png",
+        "training/image_02/0018/000205.png"
+      ]
+    },
+    {
+      "id": "0018-000263",
+      "sequence": "0018",
+      "split": "eval",
+      "start_frame": 263,
+      "end_frame_exclusive": 273,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0018/000263.png",
+        "training/image_02/0018/000265.png",
+        "training/image_02/0018/000267.png",
+        "training/image_02/0018/000269.png",
+        "training/image_02/0018/000271.png"
+      ]
+    },
+    {
+      "id": "0018-000329",
+      "sequence": "0018",
+      "split": "eval",
+      "start_frame": 329,
+      "end_frame_exclusive": 339,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0018/000329.png",
+        "training/image_02/0018/000331.png",
+        "training/image_02/0018/000333.png",
+        "training/image_02/0018/000335.png",
+        "training/image_02/0018/000337.png"
+      ]
+    },
+    {
+      "id": "0019-000000",
+      "sequence": "0019",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0019/000000.png",
+        "training/image_02/0019/000002.png",
+        "training/image_02/0019/000004.png",
+        "training/image_02/0019/000006.png",
+        "training/image_02/0019/000008.png"
+      ]
+    },
+    {
+      "id": "0019-000210",
+      "sequence": "0019",
+      "split": "eval",
+      "start_frame": 210,
+      "end_frame_exclusive": 220,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0019/000210.png",
+        "training/image_02/0019/000212.png",
+        "training/image_02/0019/000214.png",
+        "training/image_02/0019/000216.png",
+        "training/image_02/0019/000218.png"
+      ]
+    },
+    {
+      "id": "0019-000420",
+      "sequence": "0019",
+      "split": "eval",
+      "start_frame": 420,
+      "end_frame_exclusive": 430,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0019/000420.png",
+        "training/image_02/0019/000422.png",
+        "training/image_02/0019/000424.png",
+        "training/image_02/0019/000426.png",
+        "training/image_02/0019/000428.png"
+      ]
+    },
+    {
+      "id": "0019-000629",
+      "sequence": "0019",
+      "split": "eval",
+      "start_frame": 629,
+      "end_frame_exclusive": 639,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0019/000629.png",
+        "training/image_02/0019/000631.png",
+        "training/image_02/0019/000633.png",
+        "training/image_02/0019/000635.png",
+        "training/image_02/0019/000637.png"
+      ]
+    },
+    {
+      "id": "0019-000839",
+      "sequence": "0019",
+      "split": "eval",
+      "start_frame": 839,
+      "end_frame_exclusive": 849,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0019/000839.png",
+        "training/image_02/0019/000841.png",
+        "training/image_02/0019/000843.png",
+        "training/image_02/0019/000845.png",
+        "training/image_02/0019/000847.png"
+      ]
+    },
+    {
+      "id": "0019-001049",
+      "sequence": "0019",
+      "split": "eval",
+      "start_frame": 1049,
+      "end_frame_exclusive": 1059,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0019/001049.png",
+        "training/image_02/0019/001051.png",
+        "training/image_02/0019/001053.png",
+        "training/image_02/0019/001055.png",
+        "training/image_02/0019/001057.png"
+      ]
+    },
+    {
+      "id": "0020-000000",
+      "sequence": "0020",
+      "split": "eval",
+      "start_frame": 0,
+      "end_frame_exclusive": 10,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0020/000000.png",
+        "training/image_02/0020/000002.png",
+        "training/image_02/0020/000004.png",
+        "training/image_02/0020/000006.png",
+        "training/image_02/0020/000008.png"
+      ]
+    },
+    {
+      "id": "0020-000165",
+      "sequence": "0020",
+      "split": "eval",
+      "start_frame": 165,
+      "end_frame_exclusive": 175,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0020/000165.png",
+        "training/image_02/0020/000167.png",
+        "training/image_02/0020/000169.png",
+        "training/image_02/0020/000171.png",
+        "training/image_02/0020/000173.png"
+      ]
+    },
+    {
+      "id": "0020-000331",
+      "sequence": "0020",
+      "split": "eval",
+      "start_frame": 331,
+      "end_frame_exclusive": 341,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0020/000331.png",
+        "training/image_02/0020/000333.png",
+        "training/image_02/0020/000335.png",
+        "training/image_02/0020/000337.png",
+        "training/image_02/0020/000339.png"
+      ]
+    },
+    {
+      "id": "0020-000496",
+      "sequence": "0020",
+      "split": "eval",
+      "start_frame": 496,
+      "end_frame_exclusive": 506,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0020/000496.png",
+        "training/image_02/0020/000498.png",
+        "training/image_02/0020/000500.png",
+        "training/image_02/0020/000502.png",
+        "training/image_02/0020/000504.png"
+      ]
+    },
+    {
+      "id": "0020-000662",
+      "sequence": "0020",
+      "split": "eval",
+      "start_frame": 662,
+      "end_frame_exclusive": 672,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0020/000662.png",
+        "training/image_02/0020/000664.png",
+        "training/image_02/0020/000666.png",
+        "training/image_02/0020/000668.png",
+        "training/image_02/0020/000670.png"
+      ]
+    },
+    {
+      "id": "0020-000827",
+      "sequence": "0020",
+      "split": "eval",
+      "start_frame": 827,
+      "end_frame_exclusive": 837,
+      "fps": 10,
+      "seconds": 1,
+      "frames": [
+        "training/image_02/0020/000827.png",
+        "training/image_02/0020/000829.png",
+        "training/image_02/0020/000831.png",
+        "training/image_02/0020/000833.png",
+        "training/image_02/0020/000835.png"
+      ]
+    }
+  ],
+  "frames": [
+    {
+      "id": "training/image_02/0000/000000.png",
+      "sequence": "0000",
+      "frame": 0,
+      "split": "pool",
+      "clip": "0000-000000",
+      "source_crc": 1744078460
+    },
+    {
+      "id": "training/image_02/0000/000002.png",
+      "sequence": "0000",
+      "frame": 2,
+      "split": "pool",
+      "clip": "0000-000000",
+      "source_crc": 467869164
+    },
+    {
+      "id": "training/image_02/0000/000004.png",
+      "sequence": "0000",
+      "frame": 4,
+      "split": "pool",
+      "clip": "0000-000000",
+      "source_crc": 2360271522
+    },
+    {
+      "id": "training/image_02/0000/000006.png",
+      "sequence": "0000",
+      "frame": 6,
+      "split": "pool",
+      "clip": "0000-000000",
+      "source_crc": 3342582035
+    },
+    {
+      "id": "training/image_02/0000/000008.png",
+      "sequence": "0000",
+      "frame": 8,
+      "split": "pool",
+      "clip": "0000-000000",
+      "source_crc": 776550810
+    },
+    {
+      "id": "training/image_02/0000/000029.png",
+      "sequence": "0000",
+      "frame": 29,
+      "split": "pool",
+      "clip": "0000-000029",
+      "source_crc": 2262604502
+    },
+    {
+      "id": "training/image_02/0000/000031.png",
+      "sequence": "0000",
+      "frame": 31,
+      "split": "pool",
+      "clip": "0000-000029",
+      "source_crc": 3822586256
+    },
+    {
+      "id": "training/image_02/0000/000033.png",
+      "sequence": "0000",
+      "frame": 33,
+      "split": "pool",
+      "clip": "0000-000029",
+      "source_crc": 1420807124
+    },
+    {
+      "id": "training/image_02/0000/000035.png",
+      "sequence": "0000",
+      "frame": 35,
+      "split": "pool",
+      "clip": "0000-000029",
+      "source_crc": 1266106744
+    },
+    {
+      "id": "training/image_02/0000/000037.png",
+      "sequence": "0000",
+      "frame": 37,
+      "split": "pool",
+      "clip": "0000-000029",
+      "source_crc": 224919427
+    },
+    {
+      "id": "training/image_02/0000/000058.png",
+      "sequence": "0000",
+      "frame": 58,
+      "split": "pool",
+      "clip": "0000-000058",
+      "source_crc": 3033845245
+    },
+    {
+      "id": "training/image_02/0000/000060.png",
+      "sequence": "0000",
+      "frame": 60,
+      "split": "pool",
+      "clip": "0000-000058",
+      "source_crc": 2928269917
+    },
+    {
+      "id": "training/image_02/0000/000062.png",
+      "sequence": "0000",
+      "frame": 62,
+      "split": "pool",
+      "clip": "0000-000058",
+      "source_crc": 3737322287
+    },
+    {
+      "id": "training/image_02/0000/000064.png",
+      "sequence": "0000",
+      "frame": 64,
+      "split": "pool",
+      "clip": "0000-000058",
+      "source_crc": 4187148529
+    },
+    {
+      "id": "training/image_02/0000/000066.png",
+      "sequence": "0000",
+      "frame": 66,
+      "split": "pool",
+      "clip": "0000-000058",
+      "source_crc": 1163317669
+    },
+    {
+      "id": "training/image_02/0000/000086.png",
+      "sequence": "0000",
+      "frame": 86,
+      "split": "pool",
+      "clip": "0000-000086",
+      "source_crc": 298049719
+    },
+    {
+      "id": "training/image_02/0000/000088.png",
+      "sequence": "0000",
+      "frame": 88,
+      "split": "pool",
+      "clip": "0000-000086",
+      "source_crc": 760024970
+    },
+    {
+      "id": "training/image_02/0000/000090.png",
+      "sequence": "0000",
+      "frame": 90,
+      "split": "pool",
+      "clip": "0000-000086",
+      "source_crc": 195639513
+    },
+    {
+      "id": "training/image_02/0000/000092.png",
+      "sequence": "0000",
+      "frame": 92,
+      "split": "pool",
+      "clip": "0000-000086",
+      "source_crc": 2153564619
+    },
+    {
+      "id": "training/image_02/0000/000094.png",
+      "sequence": "0000",
+      "frame": 94,
+      "split": "pool",
+      "clip": "0000-000086",
+      "source_crc": 1194967329
+    },
+    {
+      "id": "training/image_02/0000/000115.png",
+      "sequence": "0000",
+      "frame": 115,
+      "split": "pool",
+      "clip": "0000-000115",
+      "source_crc": 2422541206
+    },
+    {
+      "id": "training/image_02/0000/000117.png",
+      "sequence": "0000",
+      "frame": 117,
+      "split": "pool",
+      "clip": "0000-000115",
+      "source_crc": 1979002332
+    },
+    {
+      "id": "training/image_02/0000/000119.png",
+      "sequence": "0000",
+      "frame": 119,
+      "split": "pool",
+      "clip": "0000-000115",
+      "source_crc": 1248225101
+    },
+    {
+      "id": "training/image_02/0000/000121.png",
+      "sequence": "0000",
+      "frame": 121,
+      "split": "pool",
+      "clip": "0000-000115",
+      "source_crc": 3300981625
+    },
+    {
+      "id": "training/image_02/0000/000123.png",
+      "sequence": "0000",
+      "frame": 123,
+      "split": "pool",
+      "clip": "0000-000115",
+      "source_crc": 2785207465
+    },
+    {
+      "id": "training/image_02/0000/000144.png",
+      "sequence": "0000",
+      "frame": 144,
+      "split": "pool",
+      "clip": "0000-000144",
+      "source_crc": 1855390077
+    },
+    {
+      "id": "training/image_02/0000/000146.png",
+      "sequence": "0000",
+      "frame": 146,
+      "split": "pool",
+      "clip": "0000-000144",
+      "source_crc": 1907984548
+    },
+    {
+      "id": "training/image_02/0000/000148.png",
+      "sequence": "0000",
+      "frame": 148,
+      "split": "pool",
+      "clip": "0000-000144",
+      "source_crc": 1523941439
+    },
+    {
+      "id": "training/image_02/0000/000150.png",
+      "sequence": "0000",
+      "frame": 150,
+      "split": "pool",
+      "clip": "0000-000144",
+      "source_crc": 3997351446
+    },
+    {
+      "id": "training/image_02/0000/000152.png",
+      "sequence": "0000",
+      "frame": 152,
+      "split": "pool",
+      "clip": "0000-000144",
+      "source_crc": 2854653818
+    },
+    {
+      "id": "training/image_02/0001/000000.png",
+      "sequence": "0001",
+      "frame": 0,
+      "split": "pool",
+      "clip": "0001-000000",
+      "source_crc": 3393115825
+    },
+    {
+      "id": "training/image_02/0001/000002.png",
+      "sequence": "0001",
+      "frame": 2,
+      "split": "pool",
+      "clip": "0001-000000",
+      "source_crc": 3140693857
+    },
+    {
+      "id": "training/image_02/0001/000004.png",
+      "sequence": "0001",
+      "frame": 4,
+      "split": "pool",
+      "clip": "0001-000000",
+      "source_crc": 2298822801
+    },
+    {
+      "id": "training/image_02/0001/000006.png",
+      "sequence": "0001",
+      "frame": 6,
+      "split": "pool",
+      "clip": "0001-000000",
+      "source_crc": 2717762085
+    },
+    {
+      "id": "training/image_02/0001/000008.png",
+      "sequence": "0001",
+      "frame": 8,
+      "split": "pool",
+      "clip": "0001-000000",
+      "source_crc": 3602119713
+    },
+    {
+      "id": "training/image_02/0001/000087.png",
+      "sequence": "0001",
+      "frame": 87,
+      "split": "pool",
+      "clip": "0001-000087",
+      "source_crc": 747967996
+    },
+    {
+      "id": "training/image_02/0001/000089.png",
+      "sequence": "0001",
+      "frame": 89,
+      "split": "pool",
+      "clip": "0001-000087",
+      "source_crc": 3801602579
+    },
+    {
+      "id": "training/image_02/0001/000091.png",
+      "sequence": "0001",
+      "frame": 91,
+      "split": "pool",
+      "clip": "0001-000087",
+      "source_crc": 3080515217
+    },
+    {
+      "id": "training/image_02/0001/000093.png",
+      "sequence": "0001",
+      "frame": 93,
+      "split": "pool",
+      "clip": "0001-000087",
+      "source_crc": 1416758507
+    },
+    {
+      "id": "training/image_02/0001/000095.png",
+      "sequence": "0001",
+      "frame": 95,
+      "split": "pool",
+      "clip": "0001-000087",
+      "source_crc": 1387306190
+    },
+    {
+      "id": "training/image_02/0001/000175.png",
+      "sequence": "0001",
+      "frame": 175,
+      "split": "pool",
+      "clip": "0001-000175",
+      "source_crc": 1535548842
+    },
+    {
+      "id": "training/image_02/0001/000177.png",
+      "sequence": "0001",
+      "frame": 177,
+      "split": "pool",
+      "clip": "0001-000175",
+      "source_crc": 731989760
+    },
+    {
+      "id": "training/image_02/0001/000179.png",
+      "sequence": "0001",
+      "frame": 179,
+      "split": "pool",
+      "clip": "0001-000175",
+      "source_crc": 1702656296
+    },
+    {
+      "id": "training/image_02/0001/000181.png",
+      "sequence": "0001",
+      "frame": 181,
+      "split": "pool",
+      "clip": "0001-000175",
+      "source_crc": 1513282041
+    },
+    {
+      "id": "training/image_02/0001/000183.png",
+      "sequence": "0001",
+      "frame": 183,
+      "split": "pool",
+      "clip": "0001-000175",
+      "source_crc": 2411154758
+    },
+    {
+      "id": "training/image_02/0001/000262.png",
+      "sequence": "0001",
+      "frame": 262,
+      "split": "pool",
+      "clip": "0001-000262",
+      "source_crc": 619348293
+    },
+    {
+      "id": "training/image_02/0001/000264.png",
+      "sequence": "0001",
+      "frame": 264,
+      "split": "pool",
+      "clip": "0001-000262",
+      "source_crc": 1346480002
+    },
+    {
+      "id": "training/image_02/0001/000266.png",
+      "sequence": "0001",
+      "frame": 266,
+      "split": "pool",
+      "clip": "0001-000262",
+      "source_crc": 2937203429
+    },
+    {
+      "id": "training/image_02/0001/000268.png",
+      "sequence": "0001",
+      "frame": 268,
+      "split": "pool",
+      "clip": "0001-000262",
+      "source_crc": 806285755
+    },
+    {
+      "id": "training/image_02/0001/000270.png",
+      "sequence": "0001",
+      "frame": 270,
+      "split": "pool",
+      "clip": "0001-000262",
+      "source_crc": 1791004026
+    },
+    {
+      "id": "training/image_02/0001/000350.png",
+      "sequence": "0001",
+      "frame": 350,
+      "split": "pool",
+      "clip": "0001-000350",
+      "source_crc": 2939275298
+    },
+    {
+      "id": "training/image_02/0001/000352.png",
+      "sequence": "0001",
+      "frame": 352,
+      "split": "pool",
+      "clip": "0001-000350",
+      "source_crc": 115163046
+    },
+    {
+      "id": "training/image_02/0001/000354.png",
+      "sequence": "0001",
+      "frame": 354,
+      "split": "pool",
+      "clip": "0001-000350",
+      "source_crc": 3633188684
+    },
+    {
+      "id": "training/image_02/0001/000356.png",
+      "sequence": "0001",
+      "frame": 356,
+      "split": "pool",
+      "clip": "0001-000350",
+      "source_crc": 656151237
+    },
+    {
+      "id": "training/image_02/0001/000358.png",
+      "sequence": "0001",
+      "frame": 358,
+      "split": "pool",
+      "clip": "0001-000350",
+      "source_crc": 3364705598
+    },
+    {
+      "id": "training/image_02/0001/000437.png",
+      "sequence": "0001",
+      "frame": 437,
+      "split": "pool",
+      "clip": "0001-000437",
+      "source_crc": 989171350
+    },
+    {
+      "id": "training/image_02/0001/000439.png",
+      "sequence": "0001",
+      "frame": 439,
+      "split": "pool",
+      "clip": "0001-000437",
+      "source_crc": 4052711436
+    },
+    {
+      "id": "training/image_02/0001/000441.png",
+      "sequence": "0001",
+      "frame": 441,
+      "split": "pool",
+      "clip": "0001-000437",
+      "source_crc": 3540290625
+    },
+    {
+      "id": "training/image_02/0001/000443.png",
+      "sequence": "0001",
+      "frame": 443,
+      "split": "pool",
+      "clip": "0001-000437",
+      "source_crc": 3915984748
+    },
+    {
+      "id": "training/image_02/0001/000445.png",
+      "sequence": "0001",
+      "frame": 445,
+      "split": "pool",
+      "clip": "0001-000437",
+      "source_crc": 1474167827
+    },
+    {
+      "id": "training/image_02/0002/000000.png",
+      "sequence": "0002",
+      "frame": 0,
+      "split": "pool",
+      "clip": "0002-000000",
+      "source_crc": 1977040440
+    },
+    {
+      "id": "training/image_02/0002/000002.png",
+      "sequence": "0002",
+      "frame": 2,
+      "split": "pool",
+      "clip": "0002-000000",
+      "source_crc": 3418284331
+    },
+    {
+      "id": "training/image_02/0002/000004.png",
+      "sequence": "0002",
+      "frame": 4,
+      "split": "pool",
+      "clip": "0002-000000",
+      "source_crc": 1541468435
+    },
+    {
+      "id": "training/image_02/0002/000006.png",
+      "sequence": "0002",
+      "frame": 6,
+      "split": "pool",
+      "clip": "0002-000000",
+      "source_crc": 2367189124
+    },
+    {
+      "id": "training/image_02/0002/000008.png",
+      "sequence": "0002",
+      "frame": 8,
+      "split": "pool",
+      "clip": "0002-000000",
+      "source_crc": 3720434388
+    },
+    {
+      "id": "training/image_02/0002/000045.png",
+      "sequence": "0002",
+      "frame": 45,
+      "split": "pool",
+      "clip": "0002-000045",
+      "source_crc": 3978668023
+    },
+    {
+      "id": "training/image_02/0002/000047.png",
+      "sequence": "0002",
+      "frame": 47,
+      "split": "pool",
+      "clip": "0002-000045",
+      "source_crc": 4200508271
+    },
+    {
+      "id": "training/image_02/0002/000049.png",
+      "sequence": "0002",
+      "frame": 49,
+      "split": "pool",
+      "clip": "0002-000045",
+      "source_crc": 3605733184
+    },
+    {
+      "id": "training/image_02/0002/000051.png",
+      "sequence": "0002",
+      "frame": 51,
+      "split": "pool",
+      "clip": "0002-000045",
+      "source_crc": 125018218
+    },
+    {
+      "id": "training/image_02/0002/000053.png",
+      "sequence": "0002",
+      "frame": 53,
+      "split": "pool",
+      "clip": "0002-000045",
+      "source_crc": 3656267272
+    },
+    {
+      "id": "training/image_02/0002/000089.png",
+      "sequence": "0002",
+      "frame": 89,
+      "split": "pool",
+      "clip": "0002-000089",
+      "source_crc": 4235396973
+    },
+    {
+      "id": "training/image_02/0002/000091.png",
+      "sequence": "0002",
+      "frame": 91,
+      "split": "pool",
+      "clip": "0002-000089",
+      "source_crc": 615452940
+    },
+    {
+      "id": "training/image_02/0002/000093.png",
+      "sequence": "0002",
+      "frame": 93,
+      "split": "pool",
+      "clip": "0002-000089",
+      "source_crc": 685098473
+    },
+    {
+      "id": "training/image_02/0002/000095.png",
+      "sequence": "0002",
+      "frame": 95,
+      "split": "pool",
+      "clip": "0002-000089",
+      "source_crc": 3235456225
+    },
+    {
+      "id": "training/image_02/0002/000097.png",
+      "sequence": "0002",
+      "frame": 97,
+      "split": "pool",
+      "clip": "0002-000089",
+      "source_crc": 321000818
+    },
+    {
+      "id": "training/image_02/0002/000134.png",
+      "sequence": "0002",
+      "frame": 134,
+      "split": "pool",
+      "clip": "0002-000134",
+      "source_crc": 2796862687
+    },
+    {
+      "id": "training/image_02/0002/000136.png",
+      "sequence": "0002",
+      "frame": 136,
+      "split": "pool",
+      "clip": "0002-000134",
+      "source_crc": 2925974843
+    },
+    {
+      "id": "training/image_02/0002/000138.png",
+      "sequence": "0002",
+      "frame": 138,
+      "split": "pool",
+      "clip": "0002-000134",
+      "source_crc": 1405569005
+    },
+    {
+      "id": "training/image_02/0002/000140.png",
+      "sequence": "0002",
+      "frame": 140,
+      "split": "pool",
+      "clip": "0002-000134",
+      "source_crc": 723899981
+    },
+    {
+      "id": "training/image_02/0002/000142.png",
+      "sequence": "0002",
+      "frame": 142,
+      "split": "pool",
+      "clip": "0002-000134",
+      "source_crc": 3889472949
+    },
+    {
+      "id": "training/image_02/0002/000178.png",
+      "sequence": "0002",
+      "frame": 178,
+      "split": "pool",
+      "clip": "0002-000178",
+      "source_crc": 3404217562
+    },
+    {
+      "id": "training/image_02/0002/000180.png",
+      "sequence": "0002",
+      "frame": 180,
+      "split": "pool",
+      "clip": "0002-000178",
+      "source_crc": 1619654603
+    },
+    {
+      "id": "training/image_02/0002/000182.png",
+      "sequence": "0002",
+      "frame": 182,
+      "split": "pool",
+      "clip": "0002-000178",
+      "source_crc": 895577610
+    },
+    {
+      "id": "training/image_02/0002/000184.png",
+      "sequence": "0002",
+      "frame": 184,
+      "split": "pool",
+      "clip": "0002-000178",
+      "source_crc": 4113305753
+    },
+    {
+      "id": "training/image_02/0002/000186.png",
+      "sequence": "0002",
+      "frame": 186,
+      "split": "pool",
+      "clip": "0002-000178",
+      "source_crc": 3308570468
+    },
+    {
+      "id": "training/image_02/0002/000223.png",
+      "sequence": "0002",
+      "frame": 223,
+      "split": "pool",
+      "clip": "0002-000223",
+      "source_crc": 1663105969
+    },
+    {
+      "id": "training/image_02/0002/000225.png",
+      "sequence": "0002",
+      "frame": 225,
+      "split": "pool",
+      "clip": "0002-000223",
+      "source_crc": 2578410078
+    },
+    {
+      "id": "training/image_02/0002/000227.png",
+      "sequence": "0002",
+      "frame": 227,
+      "split": "pool",
+      "clip": "0002-000223",
+      "source_crc": 3286227433
+    },
+    {
+      "id": "training/image_02/0002/000229.png",
+      "sequence": "0002",
+      "frame": 229,
+      "split": "pool",
+      "clip": "0002-000223",
+      "source_crc": 4094091786
+    },
+    {
+      "id": "training/image_02/0002/000231.png",
+      "sequence": "0002",
+      "frame": 231,
+      "split": "pool",
+      "clip": "0002-000223",
+      "source_crc": 2278337744
+    },
+    {
+      "id": "training/image_02/0003/000000.png",
+      "sequence": "0003",
+      "frame": 0,
+      "split": "pool",
+      "clip": "0003-000000",
+      "source_crc": 3133643618
+    },
+    {
+      "id": "training/image_02/0003/000002.png",
+      "sequence": "0003",
+      "frame": 2,
+      "split": "pool",
+      "clip": "0003-000000",
+      "source_crc": 97689679
+    },
+    {
+      "id": "training/image_02/0003/000004.png",
+      "sequence": "0003",
+      "frame": 4,
+      "split": "pool",
+      "clip": "0003-000000",
+      "source_crc": 368373734
+    },
+    {
+      "id": "training/image_02/0003/000006.png",
+      "sequence": "0003",
+      "frame": 6,
+      "split": "pool",
+      "clip": "0003-000000",
+      "source_crc": 1962993323
+    },
+    {
+      "id": "training/image_02/0003/000008.png",
+      "sequence": "0003",
+      "frame": 8,
+      "split": "pool",
+      "clip": "0003-000000",
+      "source_crc": 3539386987
+    },
+    {
+      "id": "training/image_02/0003/000027.png",
+      "sequence": "0003",
+      "frame": 27,
+      "split": "pool",
+      "clip": "0003-000027",
+      "source_crc": 1736809132
+    },
+    {
+      "id": "training/image_02/0003/000029.png",
+      "sequence": "0003",
+      "frame": 29,
+      "split": "pool",
+      "clip": "0003-000027",
+      "source_crc": 3086720513
+    },
+    {
+      "id": "training/image_02/0003/000031.png",
+      "sequence": "0003",
+      "frame": 31,
+      "split": "pool",
+      "clip": "0003-000027",
+      "source_crc": 217132407
+    },
+    {
+      "id": "training/image_02/0003/000033.png",
+      "sequence": "0003",
+      "frame": 33,
+      "split": "pool",
+      "clip": "0003-000027",
+      "source_crc": 371155965
+    },
+    {
+      "id": "training/image_02/0003/000035.png",
+      "sequence": "0003",
+      "frame": 35,
+      "split": "pool",
+      "clip": "0003-000027",
+      "source_crc": 1107390489
+    },
+    {
+      "id": "training/image_02/0003/000054.png",
+      "sequence": "0003",
+      "frame": 54,
+      "split": "pool",
+      "clip": "0003-000054",
+      "source_crc": 999640400
+    },
+    {
+      "id": "training/image_02/0003/000056.png",
+      "sequence": "0003",
+      "frame": 56,
+      "split": "pool",
+      "clip": "0003-000054",
+      "source_crc": 637311491
+    },
+    {
+      "id": "training/image_02/0003/000058.png",
+      "sequence": "0003",
+      "frame": 58,
+      "split": "pool",
+      "clip": "0003-000054",
+      "source_crc": 2329136154
+    },
+    {
+      "id": "training/image_02/0003/000060.png",
+      "sequence": "0003",
+      "frame": 60,
+      "split": "pool",
+      "clip": "0003-000054",
+      "source_crc": 2575870059
+    },
+    {
+      "id": "training/image_02/0003/000062.png",
+      "sequence": "0003",
+      "frame": 62,
+      "split": "pool",
+      "clip": "0003-000054",
+      "source_crc": 2688310204
+    },
+    {
+      "id": "training/image_02/0003/000080.png",
+      "sequence": "0003",
+      "frame": 80,
+      "split": "pool",
+      "clip": "0003-000080",
+      "source_crc": 153593879
+    },
+    {
+      "id": "training/image_02/0003/000082.png",
+      "sequence": "0003",
+      "frame": 82,
+      "split": "pool",
+      "clip": "0003-000080",
+      "source_crc": 2985813127
+    },
+    {
+      "id": "training/image_02/0003/000084.png",
+      "sequence": "0003",
+      "frame": 84,
+      "split": "pool",
+      "clip": "0003-000080",
+      "source_crc": 2121101648
+    },
+    {
+      "id": "training/image_02/0003/000086.png",
+      "sequence": "0003",
+      "frame": 86,
+      "split": "pool",
+      "clip": "0003-000080",
+      "source_crc": 7043149
+    },
+    {
+      "id": "training/image_02/0003/000088.png",
+      "sequence": "0003",
+      "frame": 88,
+      "split": "pool",
+      "clip": "0003-000080",
+      "source_crc": 1321931799
+    },
+    {
+      "id": "training/image_02/0003/000107.png",
+      "sequence": "0003",
+      "frame": 107,
+      "split": "pool",
+      "clip": "0003-000107",
+      "source_crc": 2040532009
+    },
+    {
+      "id": "training/image_02/0003/000109.png",
+      "sequence": "0003",
+      "frame": 109,
+      "split": "pool",
+      "clip": "0003-000107",
+      "source_crc": 223968691
+    },
+    {
+      "id": "training/image_02/0003/000111.png",
+      "sequence": "0003",
+      "frame": 111,
+      "split": "pool",
+      "clip": "0003-000107",
+      "source_crc": 3602792052
+    },
+    {
+      "id": "training/image_02/0003/000113.png",
+      "sequence": "0003",
+      "frame": 113,
+      "split": "pool",
+      "clip": "0003-000107",
+      "source_crc": 1193928582
+    },
+    {
+      "id": "training/image_02/0003/000115.png",
+      "sequence": "0003",
+      "frame": 115,
+      "split": "pool",
+      "clip": "0003-000107",
+      "source_crc": 2652860040
+    },
+    {
+      "id": "training/image_02/0003/000134.png",
+      "sequence": "0003",
+      "frame": 134,
+      "split": "pool",
+      "clip": "0003-000134",
+      "source_crc": 308141165
+    },
+    {
+      "id": "training/image_02/0003/000136.png",
+      "sequence": "0003",
+      "frame": 136,
+      "split": "pool",
+      "clip": "0003-000134",
+      "source_crc": 242896002
+    },
+    {
+      "id": "training/image_02/0003/000138.png",
+      "sequence": "0003",
+      "frame": 138,
+      "split": "pool",
+      "clip": "0003-000134",
+      "source_crc": 473552228
+    },
+    {
+      "id": "training/image_02/0003/000140.png",
+      "sequence": "0003",
+      "frame": 140,
+      "split": "pool",
+      "clip": "0003-000134",
+      "source_crc": 2189763089
+    },
+    {
+      "id": "training/image_02/0003/000142.png",
+      "sequence": "0003",
+      "frame": 142,
+      "split": "pool",
+      "clip": "0003-000134",
+      "source_crc": 648989389
+    },
+    {
+      "id": "training/image_02/0004/000000.png",
+      "sequence": "0004",
+      "frame": 0,
+      "split": "dev",
+      "clip": "0004-000000",
+      "source_crc": 106558404
+    },
+    {
+      "id": "training/image_02/0004/000002.png",
+      "sequence": "0004",
+      "frame": 2,
+      "split": "dev",
+      "clip": "0004-000000",
+      "source_crc": 2486024718
+    },
+    {
+      "id": "training/image_02/0004/000004.png",
+      "sequence": "0004",
+      "frame": 4,
+      "split": "dev",
+      "clip": "0004-000000",
+      "source_crc": 329258547
+    },
+    {
+      "id": "training/image_02/0004/000006.png",
+      "sequence": "0004",
+      "frame": 6,
+      "split": "dev",
+      "clip": "0004-000000",
+      "source_crc": 3934187450
+    },
+    {
+      "id": "training/image_02/0004/000008.png",
+      "sequence": "0004",
+      "frame": 8,
+      "split": "dev",
+      "clip": "0004-000000",
+      "source_crc": 2699299619
+    },
+    {
+      "id": "training/image_02/0004/000061.png",
+      "sequence": "0004",
+      "frame": 61,
+      "split": "dev",
+      "clip": "0004-000061",
+      "source_crc": 914070780
+    },
+    {
+      "id": "training/image_02/0004/000063.png",
+      "sequence": "0004",
+      "frame": 63,
+      "split": "dev",
+      "clip": "0004-000061",
+      "source_crc": 2360426492
+    },
+    {
+      "id": "training/image_02/0004/000065.png",
+      "sequence": "0004",
+      "frame": 65,
+      "split": "dev",
+      "clip": "0004-000061",
+      "source_crc": 2032887309
+    },
+    {
+      "id": "training/image_02/0004/000067.png",
+      "sequence": "0004",
+      "frame": 67,
+      "split": "dev",
+      "clip": "0004-000061",
+      "source_crc": 3974323078
+    },
+    {
+      "id": "training/image_02/0004/000069.png",
+      "sequence": "0004",
+      "frame": 69,
+      "split": "dev",
+      "clip": "0004-000061",
+      "source_crc": 3555891473
+    },
+    {
+      "id": "training/image_02/0004/000122.png",
+      "sequence": "0004",
+      "frame": 122,
+      "split": "dev",
+      "clip": "0004-000122",
+      "source_crc": 3177136180
+    },
+    {
+      "id": "training/image_02/0004/000124.png",
+      "sequence": "0004",
+      "frame": 124,
+      "split": "dev",
+      "clip": "0004-000122",
+      "source_crc": 1112786935
+    },
+    {
+      "id": "training/image_02/0004/000126.png",
+      "sequence": "0004",
+      "frame": 126,
+      "split": "dev",
+      "clip": "0004-000122",
+      "source_crc": 1199708287
+    },
+    {
+      "id": "training/image_02/0004/000128.png",
+      "sequence": "0004",
+      "frame": 128,
+      "split": "dev",
+      "clip": "0004-000122",
+      "source_crc": 69187996
+    },
+    {
+      "id": "training/image_02/0004/000130.png",
+      "sequence": "0004",
+      "frame": 130,
+      "split": "dev",
+      "clip": "0004-000122",
+      "source_crc": 189687120
+    },
+    {
+      "id": "training/image_02/0004/000182.png",
+      "sequence": "0004",
+      "frame": 182,
+      "split": "dev",
+      "clip": "0004-000182",
+      "source_crc": 1397468521
+    },
+    {
+      "id": "training/image_02/0004/000184.png",
+      "sequence": "0004",
+      "frame": 184,
+      "split": "dev",
+      "clip": "0004-000182",
+      "source_crc": 168066189
+    },
+    {
+      "id": "training/image_02/0004/000186.png",
+      "sequence": "0004",
+      "frame": 186,
+      "split": "dev",
+      "clip": "0004-000182",
+      "source_crc": 2749256155
+    },
+    {
+      "id": "training/image_02/0004/000188.png",
+      "sequence": "0004",
+      "frame": 188,
+      "split": "dev",
+      "clip": "0004-000182",
+      "source_crc": 3839508553
+    },
+    {
+      "id": "training/image_02/0004/000190.png",
+      "sequence": "0004",
+      "frame": 190,
+      "split": "dev",
+      "clip": "0004-000182",
+      "source_crc": 1904943196
+    },
+    {
+      "id": "training/image_02/0004/000243.png",
+      "sequence": "0004",
+      "frame": 243,
+      "split": "dev",
+      "clip": "0004-000243",
+      "source_crc": 4014295931
+    },
+    {
+      "id": "training/image_02/0004/000245.png",
+      "sequence": "0004",
+      "frame": 245,
+      "split": "dev",
+      "clip": "0004-000243",
+      "source_crc": 660345642
+    },
+    {
+      "id": "training/image_02/0004/000247.png",
+      "sequence": "0004",
+      "frame": 247,
+      "split": "dev",
+      "clip": "0004-000243",
+      "source_crc": 1672432446
+    },
+    {
+      "id": "training/image_02/0004/000249.png",
+      "sequence": "0004",
+      "frame": 249,
+      "split": "dev",
+      "clip": "0004-000243",
+      "source_crc": 3273416378
+    },
+    {
+      "id": "training/image_02/0004/000251.png",
+      "sequence": "0004",
+      "frame": 251,
+      "split": "dev",
+      "clip": "0004-000243",
+      "source_crc": 1545163743
+    },
+    {
+      "id": "training/image_02/0004/000304.png",
+      "sequence": "0004",
+      "frame": 304,
+      "split": "dev",
+      "clip": "0004-000304",
+      "source_crc": 3831560196
+    },
+    {
+      "id": "training/image_02/0004/000306.png",
+      "sequence": "0004",
+      "frame": 306,
+      "split": "dev",
+      "clip": "0004-000304",
+      "source_crc": 1736458155
+    },
+    {
+      "id": "training/image_02/0004/000308.png",
+      "sequence": "0004",
+      "frame": 308,
+      "split": "dev",
+      "clip": "0004-000304",
+      "source_crc": 2068637200
+    },
+    {
+      "id": "training/image_02/0004/000310.png",
+      "sequence": "0004",
+      "frame": 310,
+      "split": "dev",
+      "clip": "0004-000304",
+      "source_crc": 1604098880
+    },
+    {
+      "id": "training/image_02/0004/000312.png",
+      "sequence": "0004",
+      "frame": 312,
+      "split": "dev",
+      "clip": "0004-000304",
+      "source_crc": 3925427298
+    },
+    {
+      "id": "training/image_02/0005/000000.png",
+      "sequence": "0005",
+      "frame": 0,
+      "split": "dev",
+      "clip": "0005-000000",
+      "source_crc": 1912146108
+    },
+    {
+      "id": "training/image_02/0005/000002.png",
+      "sequence": "0005",
+      "frame": 2,
+      "split": "dev",
+      "clip": "0005-000000",
+      "source_crc": 2978290594
+    },
+    {
+      "id": "training/image_02/0005/000004.png",
+      "sequence": "0005",
+      "frame": 4,
+      "split": "dev",
+      "clip": "0005-000000",
+      "source_crc": 2634509526
+    },
+    {
+      "id": "training/image_02/0005/000006.png",
+      "sequence": "0005",
+      "frame": 6,
+      "split": "dev",
+      "clip": "0005-000000",
+      "source_crc": 902152885
+    },
+    {
+      "id": "training/image_02/0005/000008.png",
+      "sequence": "0005",
+      "frame": 8,
+      "split": "dev",
+      "clip": "0005-000000",
+      "source_crc": 485395370
+    },
+    {
+      "id": "training/image_02/0005/000057.png",
+      "sequence": "0005",
+      "frame": 57,
+      "split": "dev",
+      "clip": "0005-000057",
+      "source_crc": 2455783385
+    },
+    {
+      "id": "training/image_02/0005/000059.png",
+      "sequence": "0005",
+      "frame": 59,
+      "split": "dev",
+      "clip": "0005-000057",
+      "source_crc": 1558274228
+    },
+    {
+      "id": "training/image_02/0005/000061.png",
+      "sequence": "0005",
+      "frame": 61,
+      "split": "dev",
+      "clip": "0005-000057",
+      "source_crc": 2370869861
+    },
+    {
+      "id": "training/image_02/0005/000063.png",
+      "sequence": "0005",
+      "frame": 63,
+      "split": "dev",
+      "clip": "0005-000057",
+      "source_crc": 1737239064
+    },
+    {
+      "id": "training/image_02/0005/000065.png",
+      "sequence": "0005",
+      "frame": 65,
+      "split": "dev",
+      "clip": "0005-000057",
+      "source_crc": 2845360786
+    },
+    {
+      "id": "training/image_02/0005/000115.png",
+      "sequence": "0005",
+      "frame": 115,
+      "split": "dev",
+      "clip": "0005-000115",
+      "source_crc": 3025719225
+    },
+    {
+      "id": "training/image_02/0005/000117.png",
+      "sequence": "0005",
+      "frame": 117,
+      "split": "dev",
+      "clip": "0005-000115",
+      "source_crc": 2348897901
+    },
+    {
+      "id": "training/image_02/0005/000119.png",
+      "sequence": "0005",
+      "frame": 119,
+      "split": "dev",
+      "clip": "0005-000115",
+      "source_crc": 3532324370
+    },
+    {
+      "id": "training/image_02/0005/000121.png",
+      "sequence": "0005",
+      "frame": 121,
+      "split": "dev",
+      "clip": "0005-000115",
+      "source_crc": 3213650824
+    },
+    {
+      "id": "training/image_02/0005/000123.png",
+      "sequence": "0005",
+      "frame": 123,
+      "split": "dev",
+      "clip": "0005-000115",
+      "source_crc": 3260116378
+    },
+    {
+      "id": "training/image_02/0005/000172.png",
+      "sequence": "0005",
+      "frame": 172,
+      "split": "dev",
+      "clip": "0005-000172",
+      "source_crc": 3656031750
+    },
+    {
+      "id": "training/image_02/0005/000174.png",
+      "sequence": "0005",
+      "frame": 174,
+      "split": "dev",
+      "clip": "0005-000172",
+      "source_crc": 3876886305
+    },
+    {
+      "id": "training/image_02/0005/000176.png",
+      "sequence": "0005",
+      "frame": 176,
+      "split": "dev",
+      "clip": "0005-000172",
+      "source_crc": 4051207197
+    },
+    {
+      "id": "training/image_02/0005/000178.png",
+      "sequence": "0005",
+      "frame": 178,
+      "split": "dev",
+      "clip": "0005-000172",
+      "source_crc": 224407791
+    },
+    {
+      "id": "training/image_02/0005/000180.png",
+      "sequence": "0005",
+      "frame": 180,
+      "split": "dev",
+      "clip": "0005-000172",
+      "source_crc": 1290028879
+    },
+    {
+      "id": "training/image_02/0005/000230.png",
+      "sequence": "0005",
+      "frame": 230,
+      "split": "dev",
+      "clip": "0005-000230",
+      "source_crc": 2678942984
+    },
+    {
+      "id": "training/image_02/0005/000232.png",
+      "sequence": "0005",
+      "frame": 232,
+      "split": "dev",
+      "clip": "0005-000230",
+      "source_crc": 1105565853
+    },
+    {
+      "id": "training/image_02/0005/000234.png",
+      "sequence": "0005",
+      "frame": 234,
+      "split": "dev",
+      "clip": "0005-000230",
+      "source_crc": 2993935701
+    },
+    {
+      "id": "training/image_02/0005/000236.png",
+      "sequence": "0005",
+      "frame": 236,
+      "split": "dev",
+      "clip": "0005-000230",
+      "source_crc": 3829269424
+    },
+    {
+      "id": "training/image_02/0005/000238.png",
+      "sequence": "0005",
+      "frame": 238,
+      "split": "dev",
+      "clip": "0005-000230",
+      "source_crc": 1151548125
+    },
+    {
+      "id": "training/image_02/0005/000287.png",
+      "sequence": "0005",
+      "frame": 287,
+      "split": "dev",
+      "clip": "0005-000287",
+      "source_crc": 4263096084
+    },
+    {
+      "id": "training/image_02/0005/000289.png",
+      "sequence": "0005",
+      "frame": 289,
+      "split": "dev",
+      "clip": "0005-000287",
+      "source_crc": 3868707514
+    },
+    {
+      "id": "training/image_02/0005/000291.png",
+      "sequence": "0005",
+      "frame": 291,
+      "split": "dev",
+      "clip": "0005-000287",
+      "source_crc": 3584006683
+    },
+    {
+      "id": "training/image_02/0005/000293.png",
+      "sequence": "0005",
+      "frame": 293,
+      "split": "dev",
+      "clip": "0005-000287",
+      "source_crc": 3623602658
+    },
+    {
+      "id": "training/image_02/0005/000295.png",
+      "sequence": "0005",
+      "frame": 295,
+      "split": "dev",
+      "clip": "0005-000287",
+      "source_crc": 3645006713
+    },
+    {
+      "id": "training/image_02/0006/000000.png",
+      "sequence": "0006",
+      "frame": 0,
+      "split": "dev",
+      "clip": "0006-000000",
+      "source_crc": 3113977918
+    },
+    {
+      "id": "training/image_02/0006/000002.png",
+      "sequence": "0006",
+      "frame": 2,
+      "split": "dev",
+      "clip": "0006-000000",
+      "source_crc": 2579311768
+    },
+    {
+      "id": "training/image_02/0006/000004.png",
+      "sequence": "0006",
+      "frame": 4,
+      "split": "dev",
+      "clip": "0006-000000",
+      "source_crc": 294795973
+    },
+    {
+      "id": "training/image_02/0006/000006.png",
+      "sequence": "0006",
+      "frame": 6,
+      "split": "dev",
+      "clip": "0006-000000",
+      "source_crc": 816970401
+    },
+    {
+      "id": "training/image_02/0006/000008.png",
+      "sequence": "0006",
+      "frame": 8,
+      "split": "dev",
+      "clip": "0006-000000",
+      "source_crc": 3866019149
+    },
+    {
+      "id": "training/image_02/0006/000052.png",
+      "sequence": "0006",
+      "frame": 52,
+      "split": "dev",
+      "clip": "0006-000052",
+      "source_crc": 725812164
+    },
+    {
+      "id": "training/image_02/0006/000054.png",
+      "sequence": "0006",
+      "frame": 54,
+      "split": "dev",
+      "clip": "0006-000052",
+      "source_crc": 1394631255
+    },
+    {
+      "id": "training/image_02/0006/000056.png",
+      "sequence": "0006",
+      "frame": 56,
+      "split": "dev",
+      "clip": "0006-000052",
+      "source_crc": 1306286210
+    },
+    {
+      "id": "training/image_02/0006/000058.png",
+      "sequence": "0006",
+      "frame": 58,
+      "split": "dev",
+      "clip": "0006-000052",
+      "source_crc": 3529623291
+    },
+    {
+      "id": "training/image_02/0006/000060.png",
+      "sequence": "0006",
+      "frame": 60,
+      "split": "dev",
+      "clip": "0006-000052",
+      "source_crc": 959693208
+    },
+    {
+      "id": "training/image_02/0006/000104.png",
+      "sequence": "0006",
+      "frame": 104,
+      "split": "dev",
+      "clip": "0006-000104",
+      "source_crc": 2305036375
+    },
+    {
+      "id": "training/image_02/0006/000106.png",
+      "sequence": "0006",
+      "frame": 106,
+      "split": "dev",
+      "clip": "0006-000104",
+      "source_crc": 1812211374
+    },
+    {
+      "id": "training/image_02/0006/000108.png",
+      "sequence": "0006",
+      "frame": 108,
+      "split": "dev",
+      "clip": "0006-000104",
+      "source_crc": 2493706737
+    },
+    {
+      "id": "training/image_02/0006/000110.png",
+      "sequence": "0006",
+      "frame": 110,
+      "split": "dev",
+      "clip": "0006-000104",
+      "source_crc": 606778747
+    },
+    {
+      "id": "training/image_02/0006/000112.png",
+      "sequence": "0006",
+      "frame": 112,
+      "split": "dev",
+      "clip": "0006-000104",
+      "source_crc": 3958983216
+    },
+    {
+      "id": "training/image_02/0006/000156.png",
+      "sequence": "0006",
+      "frame": 156,
+      "split": "dev",
+      "clip": "0006-000156",
+      "source_crc": 1157098897
+    },
+    {
+      "id": "training/image_02/0006/000158.png",
+      "sequence": "0006",
+      "frame": 158,
+      "split": "dev",
+      "clip": "0006-000156",
+      "source_crc": 3352302430
+    },
+    {
+      "id": "training/image_02/0006/000160.png",
+      "sequence": "0006",
+      "frame": 160,
+      "split": "dev",
+      "clip": "0006-000156",
+      "source_crc": 3808126705
+    },
+    {
+      "id": "training/image_02/0006/000162.png",
+      "sequence": "0006",
+      "frame": 162,
+      "split": "dev",
+      "clip": "0006-000156",
+      "source_crc": 2920676150
+    },
+    {
+      "id": "training/image_02/0006/000164.png",
+      "sequence": "0006",
+      "frame": 164,
+      "split": "dev",
+      "clip": "0006-000156",
+      "source_crc": 3586176576
+    },
+    {
+      "id": "training/image_02/0006/000208.png",
+      "sequence": "0006",
+      "frame": 208,
+      "split": "dev",
+      "clip": "0006-000208",
+      "source_crc": 3457096589
+    },
+    {
+      "id": "training/image_02/0006/000210.png",
+      "sequence": "0006",
+      "frame": 210,
+      "split": "dev",
+      "clip": "0006-000208",
+      "source_crc": 1056002707
+    },
+    {
+      "id": "training/image_02/0006/000212.png",
+      "sequence": "0006",
+      "frame": 212,
+      "split": "dev",
+      "clip": "0006-000208",
+      "source_crc": 1157545432
+    },
+    {
+      "id": "training/image_02/0006/000214.png",
+      "sequence": "0006",
+      "frame": 214,
+      "split": "dev",
+      "clip": "0006-000208",
+      "source_crc": 4181409863
+    },
+    {
+      "id": "training/image_02/0006/000216.png",
+      "sequence": "0006",
+      "frame": 216,
+      "split": "dev",
+      "clip": "0006-000208",
+      "source_crc": 135909963
+    },
+    {
+      "id": "training/image_02/0006/000260.png",
+      "sequence": "0006",
+      "frame": 260,
+      "split": "dev",
+      "clip": "0006-000260",
+      "source_crc": 337558367
+    },
+    {
+      "id": "training/image_02/0006/000262.png",
+      "sequence": "0006",
+      "frame": 262,
+      "split": "dev",
+      "clip": "0006-000260",
+      "source_crc": 1668336703
+    },
+    {
+      "id": "training/image_02/0006/000264.png",
+      "sequence": "0006",
+      "frame": 264,
+      "split": "dev",
+      "clip": "0006-000260",
+      "source_crc": 690584232
+    },
+    {
+      "id": "training/image_02/0006/000266.png",
+      "sequence": "0006",
+      "frame": 266,
+      "split": "dev",
+      "clip": "0006-000260",
+      "source_crc": 750134751
+    },
+    {
+      "id": "training/image_02/0006/000268.png",
+      "sequence": "0006",
+      "frame": 268,
+      "split": "dev",
+      "clip": "0006-000260",
+      "source_crc": 482857730
+    },
+    {
+      "id": "training/image_02/0007/000000.png",
+      "sequence": "0007",
+      "frame": 0,
+      "split": "dev",
+      "clip": "0007-000000",
+      "source_crc": 2576437823
+    },
+    {
+      "id": "training/image_02/0007/000002.png",
+      "sequence": "0007",
+      "frame": 2,
+      "split": "dev",
+      "clip": "0007-000000",
+      "source_crc": 3657108198
+    },
+    {
+      "id": "training/image_02/0007/000004.png",
+      "sequence": "0007",
+      "frame": 4,
+      "split": "dev",
+      "clip": "0007-000000",
+      "source_crc": 2738589749
+    },
+    {
+      "id": "training/image_02/0007/000006.png",
+      "sequence": "0007",
+      "frame": 6,
+      "split": "dev",
+      "clip": "0007-000000",
+      "source_crc": 2992271623
+    },
+    {
+      "id": "training/image_02/0007/000008.png",
+      "sequence": "0007",
+      "frame": 8,
+      "split": "dev",
+      "clip": "0007-000000",
+      "source_crc": 614726462
+    },
+    {
+      "id": "training/image_02/0007/000158.png",
+      "sequence": "0007",
+      "frame": 158,
+      "split": "dev",
+      "clip": "0007-000158",
+      "source_crc": 537041519
+    },
+    {
+      "id": "training/image_02/0007/000160.png",
+      "sequence": "0007",
+      "frame": 160,
+      "split": "dev",
+      "clip": "0007-000158",
+      "source_crc": 3680179969
+    },
+    {
+      "id": "training/image_02/0007/000162.png",
+      "sequence": "0007",
+      "frame": 162,
+      "split": "dev",
+      "clip": "0007-000158",
+      "source_crc": 2007247526
+    },
+    {
+      "id": "training/image_02/0007/000164.png",
+      "sequence": "0007",
+      "frame": 164,
+      "split": "dev",
+      "clip": "0007-000158",
+      "source_crc": 2410168587
+    },
+    {
+      "id": "training/image_02/0007/000166.png",
+      "sequence": "0007",
+      "frame": 166,
+      "split": "dev",
+      "clip": "0007-000158",
+      "source_crc": 551188576
+    },
+    {
+      "id": "training/image_02/0007/000316.png",
+      "sequence": "0007",
+      "frame": 316,
+      "split": "dev",
+      "clip": "0007-000316",
+      "source_crc": 3552536910
+    },
+    {
+      "id": "training/image_02/0007/000318.png",
+      "sequence": "0007",
+      "frame": 318,
+      "split": "dev",
+      "clip": "0007-000316",
+      "source_crc": 2012463875
+    },
+    {
+      "id": "training/image_02/0007/000320.png",
+      "sequence": "0007",
+      "frame": 320,
+      "split": "dev",
+      "clip": "0007-000316",
+      "source_crc": 1414065563
+    },
+    {
+      "id": "training/image_02/0007/000322.png",
+      "sequence": "0007",
+      "frame": 322,
+      "split": "dev",
+      "clip": "0007-000316",
+      "source_crc": 3834656596
+    },
+    {
+      "id": "training/image_02/0007/000324.png",
+      "sequence": "0007",
+      "frame": 324,
+      "split": "dev",
+      "clip": "0007-000316",
+      "source_crc": 815310008
+    },
+    {
+      "id": "training/image_02/0007/000474.png",
+      "sequence": "0007",
+      "frame": 474,
+      "split": "dev",
+      "clip": "0007-000474",
+      "source_crc": 3735861308
+    },
+    {
+      "id": "training/image_02/0007/000476.png",
+      "sequence": "0007",
+      "frame": 476,
+      "split": "dev",
+      "clip": "0007-000474",
+      "source_crc": 1925284859
+    },
+    {
+      "id": "training/image_02/0007/000478.png",
+      "sequence": "0007",
+      "frame": 478,
+      "split": "dev",
+      "clip": "0007-000474",
+      "source_crc": 2146600372
+    },
+    {
+      "id": "training/image_02/0007/000480.png",
+      "sequence": "0007",
+      "frame": 480,
+      "split": "dev",
+      "clip": "0007-000474",
+      "source_crc": 3723530220
+    },
+    {
+      "id": "training/image_02/0007/000482.png",
+      "sequence": "0007",
+      "frame": 482,
+      "split": "dev",
+      "clip": "0007-000474",
+      "source_crc": 2169137352
+    },
+    {
+      "id": "training/image_02/0007/000632.png",
+      "sequence": "0007",
+      "frame": 632,
+      "split": "dev",
+      "clip": "0007-000632",
+      "source_crc": 3983046821
+    },
+    {
+      "id": "training/image_02/0007/000634.png",
+      "sequence": "0007",
+      "frame": 634,
+      "split": "dev",
+      "clip": "0007-000632",
+      "source_crc": 3931838176
+    },
+    {
+      "id": "training/image_02/0007/000636.png",
+      "sequence": "0007",
+      "frame": 636,
+      "split": "dev",
+      "clip": "0007-000632",
+      "source_crc": 2985928554
+    },
+    {
+      "id": "training/image_02/0007/000638.png",
+      "sequence": "0007",
+      "frame": 638,
+      "split": "dev",
+      "clip": "0007-000632",
+      "source_crc": 3742203980
+    },
+    {
+      "id": "training/image_02/0007/000640.png",
+      "sequence": "0007",
+      "frame": 640,
+      "split": "dev",
+      "clip": "0007-000632",
+      "source_crc": 661603497
+    },
+    {
+      "id": "training/image_02/0007/000790.png",
+      "sequence": "0007",
+      "frame": 790,
+      "split": "dev",
+      "clip": "0007-000790",
+      "source_crc": 4032502141
+    },
+    {
+      "id": "training/image_02/0007/000792.png",
+      "sequence": "0007",
+      "frame": 792,
+      "split": "dev",
+      "clip": "0007-000790",
+      "source_crc": 2309800661
+    },
+    {
+      "id": "training/image_02/0007/000794.png",
+      "sequence": "0007",
+      "frame": 794,
+      "split": "dev",
+      "clip": "0007-000790",
+      "source_crc": 1000759023
+    },
+    {
+      "id": "training/image_02/0007/000796.png",
+      "sequence": "0007",
+      "frame": 796,
+      "split": "dev",
+      "clip": "0007-000790",
+      "source_crc": 476907608
+    },
+    {
+      "id": "training/image_02/0007/000798.png",
+      "sequence": "0007",
+      "frame": 798,
+      "split": "dev",
+      "clip": "0007-000790",
+      "source_crc": 215433102
+    },
+    {
+      "id": "training/image_02/0008/000000.png",
+      "sequence": "0008",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0008-000000",
+      "source_crc": 2675140414
+    },
+    {
+      "id": "training/image_02/0008/000002.png",
+      "sequence": "0008",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0008-000000",
+      "source_crc": 1652373957
+    },
+    {
+      "id": "training/image_02/0008/000004.png",
+      "sequence": "0008",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0008-000000",
+      "source_crc": 3217977450
+    },
+    {
+      "id": "training/image_02/0008/000006.png",
+      "sequence": "0008",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0008-000000",
+      "source_crc": 2713186918
+    },
+    {
+      "id": "training/image_02/0008/000008.png",
+      "sequence": "0008",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0008-000000",
+      "source_crc": 2842115251
+    },
+    {
+      "id": "training/image_02/0008/000076.png",
+      "sequence": "0008",
+      "frame": 76,
+      "split": "eval",
+      "clip": "0008-000076",
+      "source_crc": 1567260773
+    },
+    {
+      "id": "training/image_02/0008/000078.png",
+      "sequence": "0008",
+      "frame": 78,
+      "split": "eval",
+      "clip": "0008-000076",
+      "source_crc": 311342158
+    },
+    {
+      "id": "training/image_02/0008/000080.png",
+      "sequence": "0008",
+      "frame": 80,
+      "split": "eval",
+      "clip": "0008-000076",
+      "source_crc": 3811828446
+    },
+    {
+      "id": "training/image_02/0008/000082.png",
+      "sequence": "0008",
+      "frame": 82,
+      "split": "eval",
+      "clip": "0008-000076",
+      "source_crc": 591369689
+    },
+    {
+      "id": "training/image_02/0008/000084.png",
+      "sequence": "0008",
+      "frame": 84,
+      "split": "eval",
+      "clip": "0008-000076",
+      "source_crc": 2333096055
+    },
+    {
+      "id": "training/image_02/0008/000152.png",
+      "sequence": "0008",
+      "frame": 152,
+      "split": "eval",
+      "clip": "0008-000152",
+      "source_crc": 2012361324
+    },
+    {
+      "id": "training/image_02/0008/000154.png",
+      "sequence": "0008",
+      "frame": 154,
+      "split": "eval",
+      "clip": "0008-000152",
+      "source_crc": 1734355877
+    },
+    {
+      "id": "training/image_02/0008/000156.png",
+      "sequence": "0008",
+      "frame": 156,
+      "split": "eval",
+      "clip": "0008-000152",
+      "source_crc": 2982553990
+    },
+    {
+      "id": "training/image_02/0008/000158.png",
+      "sequence": "0008",
+      "frame": 158,
+      "split": "eval",
+      "clip": "0008-000152",
+      "source_crc": 2328934964
+    },
+    {
+      "id": "training/image_02/0008/000160.png",
+      "sequence": "0008",
+      "frame": 160,
+      "split": "eval",
+      "clip": "0008-000152",
+      "source_crc": 745966126
+    },
+    {
+      "id": "training/image_02/0008/000228.png",
+      "sequence": "0008",
+      "frame": 228,
+      "split": "eval",
+      "clip": "0008-000228",
+      "source_crc": 2531892431
+    },
+    {
+      "id": "training/image_02/0008/000230.png",
+      "sequence": "0008",
+      "frame": 230,
+      "split": "eval",
+      "clip": "0008-000228",
+      "source_crc": 1756593992
+    },
+    {
+      "id": "training/image_02/0008/000232.png",
+      "sequence": "0008",
+      "frame": 232,
+      "split": "eval",
+      "clip": "0008-000228",
+      "source_crc": 2728266332
+    },
+    {
+      "id": "training/image_02/0008/000234.png",
+      "sequence": "0008",
+      "frame": 234,
+      "split": "eval",
+      "clip": "0008-000228",
+      "source_crc": 1208776404
+    },
+    {
+      "id": "training/image_02/0008/000236.png",
+      "sequence": "0008",
+      "frame": 236,
+      "split": "eval",
+      "clip": "0008-000228",
+      "source_crc": 2444065181
+    },
+    {
+      "id": "training/image_02/0008/000304.png",
+      "sequence": "0008",
+      "frame": 304,
+      "split": "eval",
+      "clip": "0008-000304",
+      "source_crc": 1350258063
+    },
+    {
+      "id": "training/image_02/0008/000306.png",
+      "sequence": "0008",
+      "frame": 306,
+      "split": "eval",
+      "clip": "0008-000304",
+      "source_crc": 842873699
+    },
+    {
+      "id": "training/image_02/0008/000308.png",
+      "sequence": "0008",
+      "frame": 308,
+      "split": "eval",
+      "clip": "0008-000304",
+      "source_crc": 158103275
+    },
+    {
+      "id": "training/image_02/0008/000310.png",
+      "sequence": "0008",
+      "frame": 310,
+      "split": "eval",
+      "clip": "0008-000304",
+      "source_crc": 2647740921
+    },
+    {
+      "id": "training/image_02/0008/000312.png",
+      "sequence": "0008",
+      "frame": 312,
+      "split": "eval",
+      "clip": "0008-000304",
+      "source_crc": 604923047
+    },
+    {
+      "id": "training/image_02/0008/000380.png",
+      "sequence": "0008",
+      "frame": 380,
+      "split": "eval",
+      "clip": "0008-000380",
+      "source_crc": 657320922
+    },
+    {
+      "id": "training/image_02/0008/000382.png",
+      "sequence": "0008",
+      "frame": 382,
+      "split": "eval",
+      "clip": "0008-000380",
+      "source_crc": 1562810522
+    },
+    {
+      "id": "training/image_02/0008/000384.png",
+      "sequence": "0008",
+      "frame": 384,
+      "split": "eval",
+      "clip": "0008-000380",
+      "source_crc": 955996853
+    },
+    {
+      "id": "training/image_02/0008/000386.png",
+      "sequence": "0008",
+      "frame": 386,
+      "split": "eval",
+      "clip": "0008-000380",
+      "source_crc": 1948303551
+    },
+    {
+      "id": "training/image_02/0008/000388.png",
+      "sequence": "0008",
+      "frame": 388,
+      "split": "eval",
+      "clip": "0008-000380",
+      "source_crc": 630125461
+    },
+    {
+      "id": "training/image_02/0010/000000.png",
+      "sequence": "0010",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0010-000000",
+      "source_crc": 46539866
+    },
+    {
+      "id": "training/image_02/0010/000002.png",
+      "sequence": "0010",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0010-000000",
+      "source_crc": 1137072596
+    },
+    {
+      "id": "training/image_02/0010/000004.png",
+      "sequence": "0010",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0010-000000",
+      "source_crc": 3625246068
+    },
+    {
+      "id": "training/image_02/0010/000006.png",
+      "sequence": "0010",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0010-000000",
+      "source_crc": 1881089926
+    },
+    {
+      "id": "training/image_02/0010/000008.png",
+      "sequence": "0010",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0010-000000",
+      "source_crc": 3659308901
+    },
+    {
+      "id": "training/image_02/0010/000057.png",
+      "sequence": "0010",
+      "frame": 57,
+      "split": "eval",
+      "clip": "0010-000057",
+      "source_crc": 3542910107
+    },
+    {
+      "id": "training/image_02/0010/000059.png",
+      "sequence": "0010",
+      "frame": 59,
+      "split": "eval",
+      "clip": "0010-000057",
+      "source_crc": 1883965282
+    },
+    {
+      "id": "training/image_02/0010/000061.png",
+      "sequence": "0010",
+      "frame": 61,
+      "split": "eval",
+      "clip": "0010-000057",
+      "source_crc": 3323278582
+    },
+    {
+      "id": "training/image_02/0010/000063.png",
+      "sequence": "0010",
+      "frame": 63,
+      "split": "eval",
+      "clip": "0010-000057",
+      "source_crc": 1175092548
+    },
+    {
+      "id": "training/image_02/0010/000065.png",
+      "sequence": "0010",
+      "frame": 65,
+      "split": "eval",
+      "clip": "0010-000057",
+      "source_crc": 2803788705
+    },
+    {
+      "id": "training/image_02/0010/000114.png",
+      "sequence": "0010",
+      "frame": 114,
+      "split": "eval",
+      "clip": "0010-000114",
+      "source_crc": 1569720131
+    },
+    {
+      "id": "training/image_02/0010/000116.png",
+      "sequence": "0010",
+      "frame": 116,
+      "split": "eval",
+      "clip": "0010-000114",
+      "source_crc": 2944904129
+    },
+    {
+      "id": "training/image_02/0010/000118.png",
+      "sequence": "0010",
+      "frame": 118,
+      "split": "eval",
+      "clip": "0010-000114",
+      "source_crc": 2994639891
+    },
+    {
+      "id": "training/image_02/0010/000120.png",
+      "sequence": "0010",
+      "frame": 120,
+      "split": "eval",
+      "clip": "0010-000114",
+      "source_crc": 3956826189
+    },
+    {
+      "id": "training/image_02/0010/000122.png",
+      "sequence": "0010",
+      "frame": 122,
+      "split": "eval",
+      "clip": "0010-000114",
+      "source_crc": 793289684
+    },
+    {
+      "id": "training/image_02/0010/000170.png",
+      "sequence": "0010",
+      "frame": 170,
+      "split": "eval",
+      "clip": "0010-000170",
+      "source_crc": 2054241176
+    },
+    {
+      "id": "training/image_02/0010/000172.png",
+      "sequence": "0010",
+      "frame": 172,
+      "split": "eval",
+      "clip": "0010-000170",
+      "source_crc": 1520206614
+    },
+    {
+      "id": "training/image_02/0010/000174.png",
+      "sequence": "0010",
+      "frame": 174,
+      "split": "eval",
+      "clip": "0010-000170",
+      "source_crc": 1512585155
+    },
+    {
+      "id": "training/image_02/0010/000176.png",
+      "sequence": "0010",
+      "frame": 176,
+      "split": "eval",
+      "clip": "0010-000170",
+      "source_crc": 3932261080
+    },
+    {
+      "id": "training/image_02/0010/000178.png",
+      "sequence": "0010",
+      "frame": 178,
+      "split": "eval",
+      "clip": "0010-000170",
+      "source_crc": 20381784
+    },
+    {
+      "id": "training/image_02/0010/000227.png",
+      "sequence": "0010",
+      "frame": 227,
+      "split": "eval",
+      "clip": "0010-000227",
+      "source_crc": 3402995155
+    },
+    {
+      "id": "training/image_02/0010/000229.png",
+      "sequence": "0010",
+      "frame": 229,
+      "split": "eval",
+      "clip": "0010-000227",
+      "source_crc": 154407813
+    },
+    {
+      "id": "training/image_02/0010/000231.png",
+      "sequence": "0010",
+      "frame": 231,
+      "split": "eval",
+      "clip": "0010-000227",
+      "source_crc": 3187728603
+    },
+    {
+      "id": "training/image_02/0010/000233.png",
+      "sequence": "0010",
+      "frame": 233,
+      "split": "eval",
+      "clip": "0010-000227",
+      "source_crc": 1318350890
+    },
+    {
+      "id": "training/image_02/0010/000235.png",
+      "sequence": "0010",
+      "frame": 235,
+      "split": "eval",
+      "clip": "0010-000227",
+      "source_crc": 1682010570
+    },
+    {
+      "id": "training/image_02/0010/000284.png",
+      "sequence": "0010",
+      "frame": 284,
+      "split": "eval",
+      "clip": "0010-000284",
+      "source_crc": 2955371869
+    },
+    {
+      "id": "training/image_02/0010/000286.png",
+      "sequence": "0010",
+      "frame": 286,
+      "split": "eval",
+      "clip": "0010-000284",
+      "source_crc": 3748975615
+    },
+    {
+      "id": "training/image_02/0010/000288.png",
+      "sequence": "0010",
+      "frame": 288,
+      "split": "eval",
+      "clip": "0010-000284",
+      "source_crc": 4190058524
+    },
+    {
+      "id": "training/image_02/0010/000290.png",
+      "sequence": "0010",
+      "frame": 290,
+      "split": "eval",
+      "clip": "0010-000284",
+      "source_crc": 4092928546
+    },
+    {
+      "id": "training/image_02/0010/000292.png",
+      "sequence": "0010",
+      "frame": 292,
+      "split": "eval",
+      "clip": "0010-000284",
+      "source_crc": 2681291673
+    },
+    {
+      "id": "training/image_02/0011/000000.png",
+      "sequence": "0011",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0011-000000",
+      "source_crc": 315258049
+    },
+    {
+      "id": "training/image_02/0011/000002.png",
+      "sequence": "0011",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0011-000000",
+      "source_crc": 3387879371
+    },
+    {
+      "id": "training/image_02/0011/000004.png",
+      "sequence": "0011",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0011-000000",
+      "source_crc": 1256716869
+    },
+    {
+      "id": "training/image_02/0011/000006.png",
+      "sequence": "0011",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0011-000000",
+      "source_crc": 3488809016
+    },
+    {
+      "id": "training/image_02/0011/000008.png",
+      "sequence": "0011",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0011-000000",
+      "source_crc": 3901559287
+    },
+    {
+      "id": "training/image_02/0011/000073.png",
+      "sequence": "0011",
+      "frame": 73,
+      "split": "eval",
+      "clip": "0011-000073",
+      "source_crc": 3034334946
+    },
+    {
+      "id": "training/image_02/0011/000075.png",
+      "sequence": "0011",
+      "frame": 75,
+      "split": "eval",
+      "clip": "0011-000073",
+      "source_crc": 2233208509
+    },
+    {
+      "id": "training/image_02/0011/000077.png",
+      "sequence": "0011",
+      "frame": 77,
+      "split": "eval",
+      "clip": "0011-000073",
+      "source_crc": 1349302837
+    },
+    {
+      "id": "training/image_02/0011/000079.png",
+      "sequence": "0011",
+      "frame": 79,
+      "split": "eval",
+      "clip": "0011-000073",
+      "source_crc": 88190059
+    },
+    {
+      "id": "training/image_02/0011/000081.png",
+      "sequence": "0011",
+      "frame": 81,
+      "split": "eval",
+      "clip": "0011-000073",
+      "source_crc": 2279458177
+    },
+    {
+      "id": "training/image_02/0011/000145.png",
+      "sequence": "0011",
+      "frame": 145,
+      "split": "eval",
+      "clip": "0011-000145",
+      "source_crc": 3556210461
+    },
+    {
+      "id": "training/image_02/0011/000147.png",
+      "sequence": "0011",
+      "frame": 147,
+      "split": "eval",
+      "clip": "0011-000145",
+      "source_crc": 3095586278
+    },
+    {
+      "id": "training/image_02/0011/000149.png",
+      "sequence": "0011",
+      "frame": 149,
+      "split": "eval",
+      "clip": "0011-000145",
+      "source_crc": 861301480
+    },
+    {
+      "id": "training/image_02/0011/000151.png",
+      "sequence": "0011",
+      "frame": 151,
+      "split": "eval",
+      "clip": "0011-000145",
+      "source_crc": 2447147064
+    },
+    {
+      "id": "training/image_02/0011/000153.png",
+      "sequence": "0011",
+      "frame": 153,
+      "split": "eval",
+      "clip": "0011-000145",
+      "source_crc": 258317894
+    },
+    {
+      "id": "training/image_02/0011/000218.png",
+      "sequence": "0011",
+      "frame": 218,
+      "split": "eval",
+      "clip": "0011-000218",
+      "source_crc": 3261951549
+    },
+    {
+      "id": "training/image_02/0011/000220.png",
+      "sequence": "0011",
+      "frame": 220,
+      "split": "eval",
+      "clip": "0011-000218",
+      "source_crc": 3545946097
+    },
+    {
+      "id": "training/image_02/0011/000222.png",
+      "sequence": "0011",
+      "frame": 222,
+      "split": "eval",
+      "clip": "0011-000218",
+      "source_crc": 2636340319
+    },
+    {
+      "id": "training/image_02/0011/000224.png",
+      "sequence": "0011",
+      "frame": 224,
+      "split": "eval",
+      "clip": "0011-000218",
+      "source_crc": 2444804028
+    },
+    {
+      "id": "training/image_02/0011/000226.png",
+      "sequence": "0011",
+      "frame": 226,
+      "split": "eval",
+      "clip": "0011-000218",
+      "source_crc": 3484868552
+    },
+    {
+      "id": "training/image_02/0011/000290.png",
+      "sequence": "0011",
+      "frame": 290,
+      "split": "eval",
+      "clip": "0011-000290",
+      "source_crc": 2813613465
+    },
+    {
+      "id": "training/image_02/0011/000292.png",
+      "sequence": "0011",
+      "frame": 292,
+      "split": "eval",
+      "clip": "0011-000290",
+      "source_crc": 2059546826
+    },
+    {
+      "id": "training/image_02/0011/000294.png",
+      "sequence": "0011",
+      "frame": 294,
+      "split": "eval",
+      "clip": "0011-000290",
+      "source_crc": 841624676
+    },
+    {
+      "id": "training/image_02/0011/000296.png",
+      "sequence": "0011",
+      "frame": 296,
+      "split": "eval",
+      "clip": "0011-000290",
+      "source_crc": 4057057547
+    },
+    {
+      "id": "training/image_02/0011/000298.png",
+      "sequence": "0011",
+      "frame": 298,
+      "split": "eval",
+      "clip": "0011-000290",
+      "source_crc": 533505636
+    },
+    {
+      "id": "training/image_02/0011/000363.png",
+      "sequence": "0011",
+      "frame": 363,
+      "split": "eval",
+      "clip": "0011-000363",
+      "source_crc": 1124275944
+    },
+    {
+      "id": "training/image_02/0011/000365.png",
+      "sequence": "0011",
+      "frame": 365,
+      "split": "eval",
+      "clip": "0011-000363",
+      "source_crc": 1058871786
+    },
+    {
+      "id": "training/image_02/0011/000367.png",
+      "sequence": "0011",
+      "frame": 367,
+      "split": "eval",
+      "clip": "0011-000363",
+      "source_crc": 4281259883
+    },
+    {
+      "id": "training/image_02/0011/000369.png",
+      "sequence": "0011",
+      "frame": 369,
+      "split": "eval",
+      "clip": "0011-000363",
+      "source_crc": 67918181
+    },
+    {
+      "id": "training/image_02/0011/000371.png",
+      "sequence": "0011",
+      "frame": 371,
+      "split": "eval",
+      "clip": "0011-000363",
+      "source_crc": 4188566741
+    },
+    {
+      "id": "training/image_02/0012/000000.png",
+      "sequence": "0012",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0012-000000",
+      "source_crc": 2342698245
+    },
+    {
+      "id": "training/image_02/0012/000002.png",
+      "sequence": "0012",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0012-000000",
+      "source_crc": 1727314092
+    },
+    {
+      "id": "training/image_02/0012/000004.png",
+      "sequence": "0012",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0012-000000",
+      "source_crc": 1660673961
+    },
+    {
+      "id": "training/image_02/0012/000006.png",
+      "sequence": "0012",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0012-000000",
+      "source_crc": 1979859053
+    },
+    {
+      "id": "training/image_02/0012/000008.png",
+      "sequence": "0012",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0012-000000",
+      "source_crc": 1961612908
+    },
+    {
+      "id": "training/image_02/0012/000014.png",
+      "sequence": "0012",
+      "frame": 14,
+      "split": "eval",
+      "clip": "0012-000014",
+      "source_crc": 62508750
+    },
+    {
+      "id": "training/image_02/0012/000016.png",
+      "sequence": "0012",
+      "frame": 16,
+      "split": "eval",
+      "clip": "0012-000014",
+      "source_crc": 1261959857
+    },
+    {
+      "id": "training/image_02/0012/000018.png",
+      "sequence": "0012",
+      "frame": 18,
+      "split": "eval",
+      "clip": "0012-000014",
+      "source_crc": 3800207429
+    },
+    {
+      "id": "training/image_02/0012/000020.png",
+      "sequence": "0012",
+      "frame": 20,
+      "split": "eval",
+      "clip": "0012-000014",
+      "source_crc": 2239171705
+    },
+    {
+      "id": "training/image_02/0012/000022.png",
+      "sequence": "0012",
+      "frame": 22,
+      "split": "eval",
+      "clip": "0012-000014",
+      "source_crc": 768186435
+    },
+    {
+      "id": "training/image_02/0012/000027.png",
+      "sequence": "0012",
+      "frame": 27,
+      "split": "eval",
+      "clip": "0012-000027",
+      "source_crc": 1813783111
+    },
+    {
+      "id": "training/image_02/0012/000029.png",
+      "sequence": "0012",
+      "frame": 29,
+      "split": "eval",
+      "clip": "0012-000027",
+      "source_crc": 1126827151
+    },
+    {
+      "id": "training/image_02/0012/000031.png",
+      "sequence": "0012",
+      "frame": 31,
+      "split": "eval",
+      "clip": "0012-000027",
+      "source_crc": 232320367
+    },
+    {
+      "id": "training/image_02/0012/000033.png",
+      "sequence": "0012",
+      "frame": 33,
+      "split": "eval",
+      "clip": "0012-000027",
+      "source_crc": 3800149905
+    },
+    {
+      "id": "training/image_02/0012/000035.png",
+      "sequence": "0012",
+      "frame": 35,
+      "split": "eval",
+      "clip": "0012-000027",
+      "source_crc": 2112968235
+    },
+    {
+      "id": "training/image_02/0012/000041.png",
+      "sequence": "0012",
+      "frame": 41,
+      "split": "eval",
+      "clip": "0012-000041",
+      "source_crc": 1772364881
+    },
+    {
+      "id": "training/image_02/0012/000043.png",
+      "sequence": "0012",
+      "frame": 43,
+      "split": "eval",
+      "clip": "0012-000041",
+      "source_crc": 399147054
+    },
+    {
+      "id": "training/image_02/0012/000045.png",
+      "sequence": "0012",
+      "frame": 45,
+      "split": "eval",
+      "clip": "0012-000041",
+      "source_crc": 2487087299
+    },
+    {
+      "id": "training/image_02/0012/000047.png",
+      "sequence": "0012",
+      "frame": 47,
+      "split": "eval",
+      "clip": "0012-000041",
+      "source_crc": 3785440886
+    },
+    {
+      "id": "training/image_02/0012/000049.png",
+      "sequence": "0012",
+      "frame": 49,
+      "split": "eval",
+      "clip": "0012-000041",
+      "source_crc": 2812051689
+    },
+    {
+      "id": "training/image_02/0012/000054.png",
+      "sequence": "0012",
+      "frame": 54,
+      "split": "eval",
+      "clip": "0012-000054",
+      "source_crc": 271269213
+    },
+    {
+      "id": "training/image_02/0012/000056.png",
+      "sequence": "0012",
+      "frame": 56,
+      "split": "eval",
+      "clip": "0012-000054",
+      "source_crc": 1377287051
+    },
+    {
+      "id": "training/image_02/0012/000058.png",
+      "sequence": "0012",
+      "frame": 58,
+      "split": "eval",
+      "clip": "0012-000054",
+      "source_crc": 1433352511
+    },
+    {
+      "id": "training/image_02/0012/000060.png",
+      "sequence": "0012",
+      "frame": 60,
+      "split": "eval",
+      "clip": "0012-000054",
+      "source_crc": 1451164918
+    },
+    {
+      "id": "training/image_02/0012/000062.png",
+      "sequence": "0012",
+      "frame": 62,
+      "split": "eval",
+      "clip": "0012-000054",
+      "source_crc": 1450692902
+    },
+    {
+      "id": "training/image_02/0012/000068.png",
+      "sequence": "0012",
+      "frame": 68,
+      "split": "eval",
+      "clip": "0012-000068",
+      "source_crc": 1049781455
+    },
+    {
+      "id": "training/image_02/0012/000070.png",
+      "sequence": "0012",
+      "frame": 70,
+      "split": "eval",
+      "clip": "0012-000068",
+      "source_crc": 4087076817
+    },
+    {
+      "id": "training/image_02/0012/000072.png",
+      "sequence": "0012",
+      "frame": 72,
+      "split": "eval",
+      "clip": "0012-000068",
+      "source_crc": 1154475661
+    },
+    {
+      "id": "training/image_02/0012/000074.png",
+      "sequence": "0012",
+      "frame": 74,
+      "split": "eval",
+      "clip": "0012-000068",
+      "source_crc": 2499154425
+    },
+    {
+      "id": "training/image_02/0012/000076.png",
+      "sequence": "0012",
+      "frame": 76,
+      "split": "eval",
+      "clip": "0012-000068",
+      "source_crc": 1512041787
+    },
+    {
+      "id": "training/image_02/0013/000000.png",
+      "sequence": "0013",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0013-000000",
+      "source_crc": 2026900818
+    },
+    {
+      "id": "training/image_02/0013/000002.png",
+      "sequence": "0013",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0013-000000",
+      "source_crc": 2756128498
+    },
+    {
+      "id": "training/image_02/0013/000004.png",
+      "sequence": "0013",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0013-000000",
+      "source_crc": 2669849957
+    },
+    {
+      "id": "training/image_02/0013/000006.png",
+      "sequence": "0013",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0013-000000",
+      "source_crc": 4265249561
+    },
+    {
+      "id": "training/image_02/0013/000008.png",
+      "sequence": "0013",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0013-000000",
+      "source_crc": 141517489
+    },
+    {
+      "id": "training/image_02/0013/000066.png",
+      "sequence": "0013",
+      "frame": 66,
+      "split": "eval",
+      "clip": "0013-000066",
+      "source_crc": 190155829
+    },
+    {
+      "id": "training/image_02/0013/000068.png",
+      "sequence": "0013",
+      "frame": 68,
+      "split": "eval",
+      "clip": "0013-000066",
+      "source_crc": 3380689017
+    },
+    {
+      "id": "training/image_02/0013/000070.png",
+      "sequence": "0013",
+      "frame": 70,
+      "split": "eval",
+      "clip": "0013-000066",
+      "source_crc": 2706086128
+    },
+    {
+      "id": "training/image_02/0013/000072.png",
+      "sequence": "0013",
+      "frame": 72,
+      "split": "eval",
+      "clip": "0013-000066",
+      "source_crc": 768091614
+    },
+    {
+      "id": "training/image_02/0013/000074.png",
+      "sequence": "0013",
+      "frame": 74,
+      "split": "eval",
+      "clip": "0013-000066",
+      "source_crc": 3819111054
+    },
+    {
+      "id": "training/image_02/0013/000132.png",
+      "sequence": "0013",
+      "frame": 132,
+      "split": "eval",
+      "clip": "0013-000132",
+      "source_crc": 1752470531
+    },
+    {
+      "id": "training/image_02/0013/000134.png",
+      "sequence": "0013",
+      "frame": 134,
+      "split": "eval",
+      "clip": "0013-000132",
+      "source_crc": 3113143990
+    },
+    {
+      "id": "training/image_02/0013/000136.png",
+      "sequence": "0013",
+      "frame": 136,
+      "split": "eval",
+      "clip": "0013-000132",
+      "source_crc": 158187994
+    },
+    {
+      "id": "training/image_02/0013/000138.png",
+      "sequence": "0013",
+      "frame": 138,
+      "split": "eval",
+      "clip": "0013-000132",
+      "source_crc": 1674953901
+    },
+    {
+      "id": "training/image_02/0013/000140.png",
+      "sequence": "0013",
+      "frame": 140,
+      "split": "eval",
+      "clip": "0013-000132",
+      "source_crc": 3560458934
+    },
+    {
+      "id": "training/image_02/0013/000198.png",
+      "sequence": "0013",
+      "frame": 198,
+      "split": "eval",
+      "clip": "0013-000198",
+      "source_crc": 1502396296
+    },
+    {
+      "id": "training/image_02/0013/000200.png",
+      "sequence": "0013",
+      "frame": 200,
+      "split": "eval",
+      "clip": "0013-000198",
+      "source_crc": 1695244835
+    },
+    {
+      "id": "training/image_02/0013/000202.png",
+      "sequence": "0013",
+      "frame": 202,
+      "split": "eval",
+      "clip": "0013-000198",
+      "source_crc": 1912942823
+    },
+    {
+      "id": "training/image_02/0013/000204.png",
+      "sequence": "0013",
+      "frame": 204,
+      "split": "eval",
+      "clip": "0013-000198",
+      "source_crc": 1137714616
+    },
+    {
+      "id": "training/image_02/0013/000206.png",
+      "sequence": "0013",
+      "frame": 206,
+      "split": "eval",
+      "clip": "0013-000198",
+      "source_crc": 3147629326
+    },
+    {
+      "id": "training/image_02/0013/000264.png",
+      "sequence": "0013",
+      "frame": 264,
+      "split": "eval",
+      "clip": "0013-000264",
+      "source_crc": 2262417114
+    },
+    {
+      "id": "training/image_02/0013/000266.png",
+      "sequence": "0013",
+      "frame": 266,
+      "split": "eval",
+      "clip": "0013-000264",
+      "source_crc": 3672252022
+    },
+    {
+      "id": "training/image_02/0013/000268.png",
+      "sequence": "0013",
+      "frame": 268,
+      "split": "eval",
+      "clip": "0013-000264",
+      "source_crc": 1800753906
+    },
+    {
+      "id": "training/image_02/0013/000270.png",
+      "sequence": "0013",
+      "frame": 270,
+      "split": "eval",
+      "clip": "0013-000264",
+      "source_crc": 1424681478
+    },
+    {
+      "id": "training/image_02/0013/000272.png",
+      "sequence": "0013",
+      "frame": 272,
+      "split": "eval",
+      "clip": "0013-000264",
+      "source_crc": 1638251794
+    },
+    {
+      "id": "training/image_02/0013/000330.png",
+      "sequence": "0013",
+      "frame": 330,
+      "split": "eval",
+      "clip": "0013-000330",
+      "source_crc": 217012582
+    },
+    {
+      "id": "training/image_02/0013/000332.png",
+      "sequence": "0013",
+      "frame": 332,
+      "split": "eval",
+      "clip": "0013-000330",
+      "source_crc": 2984347881
+    },
+    {
+      "id": "training/image_02/0013/000334.png",
+      "sequence": "0013",
+      "frame": 334,
+      "split": "eval",
+      "clip": "0013-000330",
+      "source_crc": 2869049850
+    },
+    {
+      "id": "training/image_02/0013/000336.png",
+      "sequence": "0013",
+      "frame": 336,
+      "split": "eval",
+      "clip": "0013-000330",
+      "source_crc": 1113359020
+    },
+    {
+      "id": "training/image_02/0013/000338.png",
+      "sequence": "0013",
+      "frame": 338,
+      "split": "eval",
+      "clip": "0013-000330",
+      "source_crc": 857362485
+    },
+    {
+      "id": "training/image_02/0014/000000.png",
+      "sequence": "0014",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0014-000000",
+      "source_crc": 235706301
+    },
+    {
+      "id": "training/image_02/0014/000002.png",
+      "sequence": "0014",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0014-000000",
+      "source_crc": 1538496721
+    },
+    {
+      "id": "training/image_02/0014/000004.png",
+      "sequence": "0014",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0014-000000",
+      "source_crc": 2067863337
+    },
+    {
+      "id": "training/image_02/0014/000006.png",
+      "sequence": "0014",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0014-000000",
+      "source_crc": 555675804
+    },
+    {
+      "id": "training/image_02/0014/000008.png",
+      "sequence": "0014",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0014-000000",
+      "source_crc": 1918840501
+    },
+    {
+      "id": "training/image_02/0014/000019.png",
+      "sequence": "0014",
+      "frame": 19,
+      "split": "eval",
+      "clip": "0014-000019",
+      "source_crc": 1750722012
+    },
+    {
+      "id": "training/image_02/0014/000021.png",
+      "sequence": "0014",
+      "frame": 21,
+      "split": "eval",
+      "clip": "0014-000019",
+      "source_crc": 2587231769
+    },
+    {
+      "id": "training/image_02/0014/000023.png",
+      "sequence": "0014",
+      "frame": 23,
+      "split": "eval",
+      "clip": "0014-000019",
+      "source_crc": 35639570
+    },
+    {
+      "id": "training/image_02/0014/000025.png",
+      "sequence": "0014",
+      "frame": 25,
+      "split": "eval",
+      "clip": "0014-000019",
+      "source_crc": 624444755
+    },
+    {
+      "id": "training/image_02/0014/000027.png",
+      "sequence": "0014",
+      "frame": 27,
+      "split": "eval",
+      "clip": "0014-000019",
+      "source_crc": 774284900
+    },
+    {
+      "id": "training/image_02/0014/000038.png",
+      "sequence": "0014",
+      "frame": 38,
+      "split": "eval",
+      "clip": "0014-000038",
+      "source_crc": 39983597
+    },
+    {
+      "id": "training/image_02/0014/000040.png",
+      "sequence": "0014",
+      "frame": 40,
+      "split": "eval",
+      "clip": "0014-000038",
+      "source_crc": 371213419
+    },
+    {
+      "id": "training/image_02/0014/000042.png",
+      "sequence": "0014",
+      "frame": 42,
+      "split": "eval",
+      "clip": "0014-000038",
+      "source_crc": 2430443122
+    },
+    {
+      "id": "training/image_02/0014/000044.png",
+      "sequence": "0014",
+      "frame": 44,
+      "split": "eval",
+      "clip": "0014-000038",
+      "source_crc": 2981394868
+    },
+    {
+      "id": "training/image_02/0014/000046.png",
+      "sequence": "0014",
+      "frame": 46,
+      "split": "eval",
+      "clip": "0014-000038",
+      "source_crc": 4211083565
+    },
+    {
+      "id": "training/image_02/0014/000058.png",
+      "sequence": "0014",
+      "frame": 58,
+      "split": "eval",
+      "clip": "0014-000058",
+      "source_crc": 4032207225
+    },
+    {
+      "id": "training/image_02/0014/000060.png",
+      "sequence": "0014",
+      "frame": 60,
+      "split": "eval",
+      "clip": "0014-000058",
+      "source_crc": 4269228727
+    },
+    {
+      "id": "training/image_02/0014/000062.png",
+      "sequence": "0014",
+      "frame": 62,
+      "split": "eval",
+      "clip": "0014-000058",
+      "source_crc": 2687428578
+    },
+    {
+      "id": "training/image_02/0014/000064.png",
+      "sequence": "0014",
+      "frame": 64,
+      "split": "eval",
+      "clip": "0014-000058",
+      "source_crc": 1456278262
+    },
+    {
+      "id": "training/image_02/0014/000066.png",
+      "sequence": "0014",
+      "frame": 66,
+      "split": "eval",
+      "clip": "0014-000058",
+      "source_crc": 3124569767
+    },
+    {
+      "id": "training/image_02/0014/000077.png",
+      "sequence": "0014",
+      "frame": 77,
+      "split": "eval",
+      "clip": "0014-000077",
+      "source_crc": 818381023
+    },
+    {
+      "id": "training/image_02/0014/000079.png",
+      "sequence": "0014",
+      "frame": 79,
+      "split": "eval",
+      "clip": "0014-000077",
+      "source_crc": 541340951
+    },
+    {
+      "id": "training/image_02/0014/000081.png",
+      "sequence": "0014",
+      "frame": 81,
+      "split": "eval",
+      "clip": "0014-000077",
+      "source_crc": 581387289
+    },
+    {
+      "id": "training/image_02/0014/000083.png",
+      "sequence": "0014",
+      "frame": 83,
+      "split": "eval",
+      "clip": "0014-000077",
+      "source_crc": 355149144
+    },
+    {
+      "id": "training/image_02/0014/000085.png",
+      "sequence": "0014",
+      "frame": 85,
+      "split": "eval",
+      "clip": "0014-000077",
+      "source_crc": 989276169
+    },
+    {
+      "id": "training/image_02/0014/000096.png",
+      "sequence": "0014",
+      "frame": 96,
+      "split": "eval",
+      "clip": "0014-000096",
+      "source_crc": 727005055
+    },
+    {
+      "id": "training/image_02/0014/000098.png",
+      "sequence": "0014",
+      "frame": 98,
+      "split": "eval",
+      "clip": "0014-000096",
+      "source_crc": 3882603661
+    },
+    {
+      "id": "training/image_02/0014/000100.png",
+      "sequence": "0014",
+      "frame": 100,
+      "split": "eval",
+      "clip": "0014-000096",
+      "source_crc": 2172194482
+    },
+    {
+      "id": "training/image_02/0014/000102.png",
+      "sequence": "0014",
+      "frame": 102,
+      "split": "eval",
+      "clip": "0014-000096",
+      "source_crc": 568658008
+    },
+    {
+      "id": "training/image_02/0014/000104.png",
+      "sequence": "0014",
+      "frame": 104,
+      "split": "eval",
+      "clip": "0014-000096",
+      "source_crc": 1011908640
+    },
+    {
+      "id": "training/image_02/0015/000000.png",
+      "sequence": "0015",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0015-000000",
+      "source_crc": 3762857447
+    },
+    {
+      "id": "training/image_02/0015/000002.png",
+      "sequence": "0015",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0015-000000",
+      "source_crc": 1966617314
+    },
+    {
+      "id": "training/image_02/0015/000004.png",
+      "sequence": "0015",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0015-000000",
+      "source_crc": 1391875288
+    },
+    {
+      "id": "training/image_02/0015/000006.png",
+      "sequence": "0015",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0015-000000",
+      "source_crc": 1754443303
+    },
+    {
+      "id": "training/image_02/0015/000008.png",
+      "sequence": "0015",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0015-000000",
+      "source_crc": 3825421654
+    },
+    {
+      "id": "training/image_02/0015/000073.png",
+      "sequence": "0015",
+      "frame": 73,
+      "split": "eval",
+      "clip": "0015-000073",
+      "source_crc": 1991926484
+    },
+    {
+      "id": "training/image_02/0015/000075.png",
+      "sequence": "0015",
+      "frame": 75,
+      "split": "eval",
+      "clip": "0015-000073",
+      "source_crc": 3676770838
+    },
+    {
+      "id": "training/image_02/0015/000077.png",
+      "sequence": "0015",
+      "frame": 77,
+      "split": "eval",
+      "clip": "0015-000073",
+      "source_crc": 2850271591
+    },
+    {
+      "id": "training/image_02/0015/000079.png",
+      "sequence": "0015",
+      "frame": 79,
+      "split": "eval",
+      "clip": "0015-000073",
+      "source_crc": 3301418641
+    },
+    {
+      "id": "training/image_02/0015/000081.png",
+      "sequence": "0015",
+      "frame": 81,
+      "split": "eval",
+      "clip": "0015-000073",
+      "source_crc": 1325281515
+    },
+    {
+      "id": "training/image_02/0015/000146.png",
+      "sequence": "0015",
+      "frame": 146,
+      "split": "eval",
+      "clip": "0015-000146",
+      "source_crc": 3259872100
+    },
+    {
+      "id": "training/image_02/0015/000148.png",
+      "sequence": "0015",
+      "frame": 148,
+      "split": "eval",
+      "clip": "0015-000146",
+      "source_crc": 1094710541
+    },
+    {
+      "id": "training/image_02/0015/000150.png",
+      "sequence": "0015",
+      "frame": 150,
+      "split": "eval",
+      "clip": "0015-000146",
+      "source_crc": 69242703
+    },
+    {
+      "id": "training/image_02/0015/000152.png",
+      "sequence": "0015",
+      "frame": 152,
+      "split": "eval",
+      "clip": "0015-000146",
+      "source_crc": 3379498892
+    },
+    {
+      "id": "training/image_02/0015/000154.png",
+      "sequence": "0015",
+      "frame": 154,
+      "split": "eval",
+      "clip": "0015-000146",
+      "source_crc": 1429986476
+    },
+    {
+      "id": "training/image_02/0015/000220.png",
+      "sequence": "0015",
+      "frame": 220,
+      "split": "eval",
+      "clip": "0015-000220",
+      "source_crc": 2354201133
+    },
+    {
+      "id": "training/image_02/0015/000222.png",
+      "sequence": "0015",
+      "frame": 222,
+      "split": "eval",
+      "clip": "0015-000220",
+      "source_crc": 3332701666
+    },
+    {
+      "id": "training/image_02/0015/000224.png",
+      "sequence": "0015",
+      "frame": 224,
+      "split": "eval",
+      "clip": "0015-000220",
+      "source_crc": 1749781991
+    },
+    {
+      "id": "training/image_02/0015/000226.png",
+      "sequence": "0015",
+      "frame": 226,
+      "split": "eval",
+      "clip": "0015-000220",
+      "source_crc": 873204742
+    },
+    {
+      "id": "training/image_02/0015/000228.png",
+      "sequence": "0015",
+      "frame": 228,
+      "split": "eval",
+      "clip": "0015-000220",
+      "source_crc": 4225577426
+    },
+    {
+      "id": "training/image_02/0015/000293.png",
+      "sequence": "0015",
+      "frame": 293,
+      "split": "eval",
+      "clip": "0015-000293",
+      "source_crc": 2367460792
+    },
+    {
+      "id": "training/image_02/0015/000295.png",
+      "sequence": "0015",
+      "frame": 295,
+      "split": "eval",
+      "clip": "0015-000293",
+      "source_crc": 1877089250
+    },
+    {
+      "id": "training/image_02/0015/000297.png",
+      "sequence": "0015",
+      "frame": 297,
+      "split": "eval",
+      "clip": "0015-000293",
+      "source_crc": 3815876608
+    },
+    {
+      "id": "training/image_02/0015/000299.png",
+      "sequence": "0015",
+      "frame": 299,
+      "split": "eval",
+      "clip": "0015-000293",
+      "source_crc": 3876416809
+    },
+    {
+      "id": "training/image_02/0015/000301.png",
+      "sequence": "0015",
+      "frame": 301,
+      "split": "eval",
+      "clip": "0015-000293",
+      "source_crc": 2967682707
+    },
+    {
+      "id": "training/image_02/0015/000366.png",
+      "sequence": "0015",
+      "frame": 366,
+      "split": "eval",
+      "clip": "0015-000366",
+      "source_crc": 4038087910
+    },
+    {
+      "id": "training/image_02/0015/000368.png",
+      "sequence": "0015",
+      "frame": 368,
+      "split": "eval",
+      "clip": "0015-000366",
+      "source_crc": 3068786108
+    },
+    {
+      "id": "training/image_02/0015/000370.png",
+      "sequence": "0015",
+      "frame": 370,
+      "split": "eval",
+      "clip": "0015-000366",
+      "source_crc": 1202555812
+    },
+    {
+      "id": "training/image_02/0015/000372.png",
+      "sequence": "0015",
+      "frame": 372,
+      "split": "eval",
+      "clip": "0015-000366",
+      "source_crc": 4151401613
+    },
+    {
+      "id": "training/image_02/0015/000374.png",
+      "sequence": "0015",
+      "frame": 374,
+      "split": "eval",
+      "clip": "0015-000366",
+      "source_crc": 3529905456
+    },
+    {
+      "id": "training/image_02/0016/000000.png",
+      "sequence": "0016",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0016-000000",
+      "source_crc": 4163776313
+    },
+    {
+      "id": "training/image_02/0016/000002.png",
+      "sequence": "0016",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0016-000000",
+      "source_crc": 3528142797
+    },
+    {
+      "id": "training/image_02/0016/000004.png",
+      "sequence": "0016",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0016-000000",
+      "source_crc": 3486046483
+    },
+    {
+      "id": "training/image_02/0016/000006.png",
+      "sequence": "0016",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0016-000000",
+      "source_crc": 3249963409
+    },
+    {
+      "id": "training/image_02/0016/000008.png",
+      "sequence": "0016",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0016-000000",
+      "source_crc": 3810863982
+    },
+    {
+      "id": "training/image_02/0016/000040.png",
+      "sequence": "0016",
+      "frame": 40,
+      "split": "eval",
+      "clip": "0016-000040",
+      "source_crc": 2868757902
+    },
+    {
+      "id": "training/image_02/0016/000042.png",
+      "sequence": "0016",
+      "frame": 42,
+      "split": "eval",
+      "clip": "0016-000040",
+      "source_crc": 2156178031
+    },
+    {
+      "id": "training/image_02/0016/000044.png",
+      "sequence": "0016",
+      "frame": 44,
+      "split": "eval",
+      "clip": "0016-000040",
+      "source_crc": 1887367909
+    },
+    {
+      "id": "training/image_02/0016/000046.png",
+      "sequence": "0016",
+      "frame": 46,
+      "split": "eval",
+      "clip": "0016-000040",
+      "source_crc": 2680551127
+    },
+    {
+      "id": "training/image_02/0016/000048.png",
+      "sequence": "0016",
+      "frame": 48,
+      "split": "eval",
+      "clip": "0016-000040",
+      "source_crc": 1201583598
+    },
+    {
+      "id": "training/image_02/0016/000080.png",
+      "sequence": "0016",
+      "frame": 80,
+      "split": "eval",
+      "clip": "0016-000080",
+      "source_crc": 66345524
+    },
+    {
+      "id": "training/image_02/0016/000082.png",
+      "sequence": "0016",
+      "frame": 82,
+      "split": "eval",
+      "clip": "0016-000080",
+      "source_crc": 1831771167
+    },
+    {
+      "id": "training/image_02/0016/000084.png",
+      "sequence": "0016",
+      "frame": 84,
+      "split": "eval",
+      "clip": "0016-000080",
+      "source_crc": 1816228528
+    },
+    {
+      "id": "training/image_02/0016/000086.png",
+      "sequence": "0016",
+      "frame": 86,
+      "split": "eval",
+      "clip": "0016-000080",
+      "source_crc": 299178792
+    },
+    {
+      "id": "training/image_02/0016/000088.png",
+      "sequence": "0016",
+      "frame": 88,
+      "split": "eval",
+      "clip": "0016-000080",
+      "source_crc": 2599205263
+    },
+    {
+      "id": "training/image_02/0016/000119.png",
+      "sequence": "0016",
+      "frame": 119,
+      "split": "eval",
+      "clip": "0016-000119",
+      "source_crc": 990263462
+    },
+    {
+      "id": "training/image_02/0016/000121.png",
+      "sequence": "0016",
+      "frame": 121,
+      "split": "eval",
+      "clip": "0016-000119",
+      "source_crc": 140163758
+    },
+    {
+      "id": "training/image_02/0016/000123.png",
+      "sequence": "0016",
+      "frame": 123,
+      "split": "eval",
+      "clip": "0016-000119",
+      "source_crc": 1889416826
+    },
+    {
+      "id": "training/image_02/0016/000125.png",
+      "sequence": "0016",
+      "frame": 125,
+      "split": "eval",
+      "clip": "0016-000119",
+      "source_crc": 3963685075
+    },
+    {
+      "id": "training/image_02/0016/000127.png",
+      "sequence": "0016",
+      "frame": 127,
+      "split": "eval",
+      "clip": "0016-000119",
+      "source_crc": 1681154306
+    },
+    {
+      "id": "training/image_02/0016/000159.png",
+      "sequence": "0016",
+      "frame": 159,
+      "split": "eval",
+      "clip": "0016-000159",
+      "source_crc": 20893294
+    },
+    {
+      "id": "training/image_02/0016/000161.png",
+      "sequence": "0016",
+      "frame": 161,
+      "split": "eval",
+      "clip": "0016-000159",
+      "source_crc": 3217892331
+    },
+    {
+      "id": "training/image_02/0016/000163.png",
+      "sequence": "0016",
+      "frame": 163,
+      "split": "eval",
+      "clip": "0016-000159",
+      "source_crc": 2872510978
+    },
+    {
+      "id": "training/image_02/0016/000165.png",
+      "sequence": "0016",
+      "frame": 165,
+      "split": "eval",
+      "clip": "0016-000159",
+      "source_crc": 2684851066
+    },
+    {
+      "id": "training/image_02/0016/000167.png",
+      "sequence": "0016",
+      "frame": 167,
+      "split": "eval",
+      "clip": "0016-000159",
+      "source_crc": 1639112694
+    },
+    {
+      "id": "training/image_02/0016/000199.png",
+      "sequence": "0016",
+      "frame": 199,
+      "split": "eval",
+      "clip": "0016-000199",
+      "source_crc": 348811640
+    },
+    {
+      "id": "training/image_02/0016/000201.png",
+      "sequence": "0016",
+      "frame": 201,
+      "split": "eval",
+      "clip": "0016-000199",
+      "source_crc": 635726644
+    },
+    {
+      "id": "training/image_02/0016/000203.png",
+      "sequence": "0016",
+      "frame": 203,
+      "split": "eval",
+      "clip": "0016-000199",
+      "source_crc": 1071492008
+    },
+    {
+      "id": "training/image_02/0016/000205.png",
+      "sequence": "0016",
+      "frame": 205,
+      "split": "eval",
+      "clip": "0016-000199",
+      "source_crc": 3185185351
+    },
+    {
+      "id": "training/image_02/0016/000207.png",
+      "sequence": "0016",
+      "frame": 207,
+      "split": "eval",
+      "clip": "0016-000199",
+      "source_crc": 4113880300
+    },
+    {
+      "id": "training/image_02/0017/000000.png",
+      "sequence": "0017",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0017-000000",
+      "source_crc": 3008568310
+    },
+    {
+      "id": "training/image_02/0017/000002.png",
+      "sequence": "0017",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0017-000000",
+      "source_crc": 585317454
+    },
+    {
+      "id": "training/image_02/0017/000004.png",
+      "sequence": "0017",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0017-000000",
+      "source_crc": 1003529832
+    },
+    {
+      "id": "training/image_02/0017/000006.png",
+      "sequence": "0017",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0017-000000",
+      "source_crc": 1978229190
+    },
+    {
+      "id": "training/image_02/0017/000008.png",
+      "sequence": "0017",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0017-000000",
+      "source_crc": 2766935667
+    },
+    {
+      "id": "training/image_02/0017/000027.png",
+      "sequence": "0017",
+      "frame": 27,
+      "split": "eval",
+      "clip": "0017-000027",
+      "source_crc": 3081542255
+    },
+    {
+      "id": "training/image_02/0017/000029.png",
+      "sequence": "0017",
+      "frame": 29,
+      "split": "eval",
+      "clip": "0017-000027",
+      "source_crc": 3709931677
+    },
+    {
+      "id": "training/image_02/0017/000031.png",
+      "sequence": "0017",
+      "frame": 31,
+      "split": "eval",
+      "clip": "0017-000027",
+      "source_crc": 249986280
+    },
+    {
+      "id": "training/image_02/0017/000033.png",
+      "sequence": "0017",
+      "frame": 33,
+      "split": "eval",
+      "clip": "0017-000027",
+      "source_crc": 1008827542
+    },
+    {
+      "id": "training/image_02/0017/000035.png",
+      "sequence": "0017",
+      "frame": 35,
+      "split": "eval",
+      "clip": "0017-000027",
+      "source_crc": 2180334797
+    },
+    {
+      "id": "training/image_02/0017/000054.png",
+      "sequence": "0017",
+      "frame": 54,
+      "split": "eval",
+      "clip": "0017-000054",
+      "source_crc": 2574615148
+    },
+    {
+      "id": "training/image_02/0017/000056.png",
+      "sequence": "0017",
+      "frame": 56,
+      "split": "eval",
+      "clip": "0017-000054",
+      "source_crc": 627504412
+    },
+    {
+      "id": "training/image_02/0017/000058.png",
+      "sequence": "0017",
+      "frame": 58,
+      "split": "eval",
+      "clip": "0017-000054",
+      "source_crc": 398911380
+    },
+    {
+      "id": "training/image_02/0017/000060.png",
+      "sequence": "0017",
+      "frame": 60,
+      "split": "eval",
+      "clip": "0017-000054",
+      "source_crc": 3822365171
+    },
+    {
+      "id": "training/image_02/0017/000062.png",
+      "sequence": "0017",
+      "frame": 62,
+      "split": "eval",
+      "clip": "0017-000054",
+      "source_crc": 4160266539
+    },
+    {
+      "id": "training/image_02/0017/000081.png",
+      "sequence": "0017",
+      "frame": 81,
+      "split": "eval",
+      "clip": "0017-000081",
+      "source_crc": 765151780
+    },
+    {
+      "id": "training/image_02/0017/000083.png",
+      "sequence": "0017",
+      "frame": 83,
+      "split": "eval",
+      "clip": "0017-000081",
+      "source_crc": 2598105938
+    },
+    {
+      "id": "training/image_02/0017/000085.png",
+      "sequence": "0017",
+      "frame": 85,
+      "split": "eval",
+      "clip": "0017-000081",
+      "source_crc": 3473642076
+    },
+    {
+      "id": "training/image_02/0017/000087.png",
+      "sequence": "0017",
+      "frame": 87,
+      "split": "eval",
+      "clip": "0017-000081",
+      "source_crc": 3497725225
+    },
+    {
+      "id": "training/image_02/0017/000089.png",
+      "sequence": "0017",
+      "frame": 89,
+      "split": "eval",
+      "clip": "0017-000081",
+      "source_crc": 3297880782
+    },
+    {
+      "id": "training/image_02/0017/000108.png",
+      "sequence": "0017",
+      "frame": 108,
+      "split": "eval",
+      "clip": "0017-000108",
+      "source_crc": 2886851722
+    },
+    {
+      "id": "training/image_02/0017/000110.png",
+      "sequence": "0017",
+      "frame": 110,
+      "split": "eval",
+      "clip": "0017-000108",
+      "source_crc": 3271789095
+    },
+    {
+      "id": "training/image_02/0017/000112.png",
+      "sequence": "0017",
+      "frame": 112,
+      "split": "eval",
+      "clip": "0017-000108",
+      "source_crc": 3661036283
+    },
+    {
+      "id": "training/image_02/0017/000114.png",
+      "sequence": "0017",
+      "frame": 114,
+      "split": "eval",
+      "clip": "0017-000108",
+      "source_crc": 3557663407
+    },
+    {
+      "id": "training/image_02/0017/000116.png",
+      "sequence": "0017",
+      "frame": 116,
+      "split": "eval",
+      "clip": "0017-000108",
+      "source_crc": 4096596234
+    },
+    {
+      "id": "training/image_02/0017/000135.png",
+      "sequence": "0017",
+      "frame": 135,
+      "split": "eval",
+      "clip": "0017-000135",
+      "source_crc": 4282887511
+    },
+    {
+      "id": "training/image_02/0017/000137.png",
+      "sequence": "0017",
+      "frame": 137,
+      "split": "eval",
+      "clip": "0017-000135",
+      "source_crc": 1668596453
+    },
+    {
+      "id": "training/image_02/0017/000139.png",
+      "sequence": "0017",
+      "frame": 139,
+      "split": "eval",
+      "clip": "0017-000135",
+      "source_crc": 1689012145
+    },
+    {
+      "id": "training/image_02/0017/000141.png",
+      "sequence": "0017",
+      "frame": 141,
+      "split": "eval",
+      "clip": "0017-000135",
+      "source_crc": 2581734906
+    },
+    {
+      "id": "training/image_02/0017/000143.png",
+      "sequence": "0017",
+      "frame": 143,
+      "split": "eval",
+      "clip": "0017-000135",
+      "source_crc": 1854726147
+    },
+    {
+      "id": "training/image_02/0018/000000.png",
+      "sequence": "0018",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0018-000000",
+      "source_crc": 1958659160
+    },
+    {
+      "id": "training/image_02/0018/000002.png",
+      "sequence": "0018",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0018-000000",
+      "source_crc": 3221257745
+    },
+    {
+      "id": "training/image_02/0018/000004.png",
+      "sequence": "0018",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0018-000000",
+      "source_crc": 1143695029
+    },
+    {
+      "id": "training/image_02/0018/000006.png",
+      "sequence": "0018",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0018-000000",
+      "source_crc": 3040314528
+    },
+    {
+      "id": "training/image_02/0018/000008.png",
+      "sequence": "0018",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0018-000000",
+      "source_crc": 665161733
+    },
+    {
+      "id": "training/image_02/0018/000066.png",
+      "sequence": "0018",
+      "frame": 66,
+      "split": "eval",
+      "clip": "0018-000066",
+      "source_crc": 489574969
+    },
+    {
+      "id": "training/image_02/0018/000068.png",
+      "sequence": "0018",
+      "frame": 68,
+      "split": "eval",
+      "clip": "0018-000066",
+      "source_crc": 1539073298
+    },
+    {
+      "id": "training/image_02/0018/000070.png",
+      "sequence": "0018",
+      "frame": 70,
+      "split": "eval",
+      "clip": "0018-000066",
+      "source_crc": 198220810
+    },
+    {
+      "id": "training/image_02/0018/000072.png",
+      "sequence": "0018",
+      "frame": 72,
+      "split": "eval",
+      "clip": "0018-000066",
+      "source_crc": 1950688864
+    },
+    {
+      "id": "training/image_02/0018/000074.png",
+      "sequence": "0018",
+      "frame": 74,
+      "split": "eval",
+      "clip": "0018-000066",
+      "source_crc": 858029487
+    },
+    {
+      "id": "training/image_02/0018/000132.png",
+      "sequence": "0018",
+      "frame": 132,
+      "split": "eval",
+      "clip": "0018-000132",
+      "source_crc": 2113340566
+    },
+    {
+      "id": "training/image_02/0018/000134.png",
+      "sequence": "0018",
+      "frame": 134,
+      "split": "eval",
+      "clip": "0018-000132",
+      "source_crc": 623238760
+    },
+    {
+      "id": "training/image_02/0018/000136.png",
+      "sequence": "0018",
+      "frame": 136,
+      "split": "eval",
+      "clip": "0018-000132",
+      "source_crc": 2292675930
+    },
+    {
+      "id": "training/image_02/0018/000138.png",
+      "sequence": "0018",
+      "frame": 138,
+      "split": "eval",
+      "clip": "0018-000132",
+      "source_crc": 3461417594
+    },
+    {
+      "id": "training/image_02/0018/000140.png",
+      "sequence": "0018",
+      "frame": 140,
+      "split": "eval",
+      "clip": "0018-000132",
+      "source_crc": 3918941619
+    },
+    {
+      "id": "training/image_02/0018/000197.png",
+      "sequence": "0018",
+      "frame": 197,
+      "split": "eval",
+      "clip": "0018-000197",
+      "source_crc": 3873574619
+    },
+    {
+      "id": "training/image_02/0018/000199.png",
+      "sequence": "0018",
+      "frame": 199,
+      "split": "eval",
+      "clip": "0018-000197",
+      "source_crc": 2071617260
+    },
+    {
+      "id": "training/image_02/0018/000201.png",
+      "sequence": "0018",
+      "frame": 201,
+      "split": "eval",
+      "clip": "0018-000197",
+      "source_crc": 1375807668
+    },
+    {
+      "id": "training/image_02/0018/000203.png",
+      "sequence": "0018",
+      "frame": 203,
+      "split": "eval",
+      "clip": "0018-000197",
+      "source_crc": 1994803492
+    },
+    {
+      "id": "training/image_02/0018/000205.png",
+      "sequence": "0018",
+      "frame": 205,
+      "split": "eval",
+      "clip": "0018-000197",
+      "source_crc": 2726329695
+    },
+    {
+      "id": "training/image_02/0018/000263.png",
+      "sequence": "0018",
+      "frame": 263,
+      "split": "eval",
+      "clip": "0018-000263",
+      "source_crc": 1624450533
+    },
+    {
+      "id": "training/image_02/0018/000265.png",
+      "sequence": "0018",
+      "frame": 265,
+      "split": "eval",
+      "clip": "0018-000263",
+      "source_crc": 4030482725
+    },
+    {
+      "id": "training/image_02/0018/000267.png",
+      "sequence": "0018",
+      "frame": 267,
+      "split": "eval",
+      "clip": "0018-000263",
+      "source_crc": 3091346926
+    },
+    {
+      "id": "training/image_02/0018/000269.png",
+      "sequence": "0018",
+      "frame": 269,
+      "split": "eval",
+      "clip": "0018-000263",
+      "source_crc": 3767735488
+    },
+    {
+      "id": "training/image_02/0018/000271.png",
+      "sequence": "0018",
+      "frame": 271,
+      "split": "eval",
+      "clip": "0018-000263",
+      "source_crc": 4038386844
+    },
+    {
+      "id": "training/image_02/0018/000329.png",
+      "sequence": "0018",
+      "frame": 329,
+      "split": "eval",
+      "clip": "0018-000329",
+      "source_crc": 2113722216
+    },
+    {
+      "id": "training/image_02/0018/000331.png",
+      "sequence": "0018",
+      "frame": 331,
+      "split": "eval",
+      "clip": "0018-000329",
+      "source_crc": 3936798018
+    },
+    {
+      "id": "training/image_02/0018/000333.png",
+      "sequence": "0018",
+      "frame": 333,
+      "split": "eval",
+      "clip": "0018-000329",
+      "source_crc": 1002657334
+    },
+    {
+      "id": "training/image_02/0018/000335.png",
+      "sequence": "0018",
+      "frame": 335,
+      "split": "eval",
+      "clip": "0018-000329",
+      "source_crc": 4017961133
+    },
+    {
+      "id": "training/image_02/0018/000337.png",
+      "sequence": "0018",
+      "frame": 337,
+      "split": "eval",
+      "clip": "0018-000329",
+      "source_crc": 4177509242
+    },
+    {
+      "id": "training/image_02/0019/000000.png",
+      "sequence": "0019",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0019-000000",
+      "source_crc": 3004597150
+    },
+    {
+      "id": "training/image_02/0019/000002.png",
+      "sequence": "0019",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0019-000000",
+      "source_crc": 114746304
+    },
+    {
+      "id": "training/image_02/0019/000004.png",
+      "sequence": "0019",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0019-000000",
+      "source_crc": 2585851150
+    },
+    {
+      "id": "training/image_02/0019/000006.png",
+      "sequence": "0019",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0019-000000",
+      "source_crc": 3902662507
+    },
+    {
+      "id": "training/image_02/0019/000008.png",
+      "sequence": "0019",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0019-000000",
+      "source_crc": 1394176083
+    },
+    {
+      "id": "training/image_02/0019/000210.png",
+      "sequence": "0019",
+      "frame": 210,
+      "split": "eval",
+      "clip": "0019-000210",
+      "source_crc": 3731229373
+    },
+    {
+      "id": "training/image_02/0019/000212.png",
+      "sequence": "0019",
+      "frame": 212,
+      "split": "eval",
+      "clip": "0019-000210",
+      "source_crc": 1205345098
+    },
+    {
+      "id": "training/image_02/0019/000214.png",
+      "sequence": "0019",
+      "frame": 214,
+      "split": "eval",
+      "clip": "0019-000210",
+      "source_crc": 3850715784
+    },
+    {
+      "id": "training/image_02/0019/000216.png",
+      "sequence": "0019",
+      "frame": 216,
+      "split": "eval",
+      "clip": "0019-000210",
+      "source_crc": 3361120227
+    },
+    {
+      "id": "training/image_02/0019/000218.png",
+      "sequence": "0019",
+      "frame": 218,
+      "split": "eval",
+      "clip": "0019-000210",
+      "source_crc": 174806851
+    },
+    {
+      "id": "training/image_02/0019/000420.png",
+      "sequence": "0019",
+      "frame": 420,
+      "split": "eval",
+      "clip": "0019-000420",
+      "source_crc": 2408584396
+    },
+    {
+      "id": "training/image_02/0019/000422.png",
+      "sequence": "0019",
+      "frame": 422,
+      "split": "eval",
+      "clip": "0019-000420",
+      "source_crc": 1744327502
+    },
+    {
+      "id": "training/image_02/0019/000424.png",
+      "sequence": "0019",
+      "frame": 424,
+      "split": "eval",
+      "clip": "0019-000420",
+      "source_crc": 1082364295
+    },
+    {
+      "id": "training/image_02/0019/000426.png",
+      "sequence": "0019",
+      "frame": 426,
+      "split": "eval",
+      "clip": "0019-000420",
+      "source_crc": 4085009009
+    },
+    {
+      "id": "training/image_02/0019/000428.png",
+      "sequence": "0019",
+      "frame": 428,
+      "split": "eval",
+      "clip": "0019-000420",
+      "source_crc": 265076725
+    },
+    {
+      "id": "training/image_02/0019/000629.png",
+      "sequence": "0019",
+      "frame": 629,
+      "split": "eval",
+      "clip": "0019-000629",
+      "source_crc": 3419540332
+    },
+    {
+      "id": "training/image_02/0019/000631.png",
+      "sequence": "0019",
+      "frame": 631,
+      "split": "eval",
+      "clip": "0019-000629",
+      "source_crc": 3927162110
+    },
+    {
+      "id": "training/image_02/0019/000633.png",
+      "sequence": "0019",
+      "frame": 633,
+      "split": "eval",
+      "clip": "0019-000629",
+      "source_crc": 548118291
+    },
+    {
+      "id": "training/image_02/0019/000635.png",
+      "sequence": "0019",
+      "frame": 635,
+      "split": "eval",
+      "clip": "0019-000629",
+      "source_crc": 1549315578
+    },
+    {
+      "id": "training/image_02/0019/000637.png",
+      "sequence": "0019",
+      "frame": 637,
+      "split": "eval",
+      "clip": "0019-000629",
+      "source_crc": 2489691258
+    },
+    {
+      "id": "training/image_02/0019/000839.png",
+      "sequence": "0019",
+      "frame": 839,
+      "split": "eval",
+      "clip": "0019-000839",
+      "source_crc": 2374420717
+    },
+    {
+      "id": "training/image_02/0019/000841.png",
+      "sequence": "0019",
+      "frame": 841,
+      "split": "eval",
+      "clip": "0019-000839",
+      "source_crc": 430993094
+    },
+    {
+      "id": "training/image_02/0019/000843.png",
+      "sequence": "0019",
+      "frame": 843,
+      "split": "eval",
+      "clip": "0019-000839",
+      "source_crc": 2518302792
+    },
+    {
+      "id": "training/image_02/0019/000845.png",
+      "sequence": "0019",
+      "frame": 845,
+      "split": "eval",
+      "clip": "0019-000839",
+      "source_crc": 1682036192
+    },
+    {
+      "id": "training/image_02/0019/000847.png",
+      "sequence": "0019",
+      "frame": 847,
+      "split": "eval",
+      "clip": "0019-000839",
+      "source_crc": 1858464005
+    },
+    {
+      "id": "training/image_02/0019/001049.png",
+      "sequence": "0019",
+      "frame": 1049,
+      "split": "eval",
+      "clip": "0019-001049",
+      "source_crc": 3200442162
+    },
+    {
+      "id": "training/image_02/0019/001051.png",
+      "sequence": "0019",
+      "frame": 1051,
+      "split": "eval",
+      "clip": "0019-001049",
+      "source_crc": 2433253188
+    },
+    {
+      "id": "training/image_02/0019/001053.png",
+      "sequence": "0019",
+      "frame": 1053,
+      "split": "eval",
+      "clip": "0019-001049",
+      "source_crc": 1769216004
+    },
+    {
+      "id": "training/image_02/0019/001055.png",
+      "sequence": "0019",
+      "frame": 1055,
+      "split": "eval",
+      "clip": "0019-001049",
+      "source_crc": 1289108391
+    },
+    {
+      "id": "training/image_02/0019/001057.png",
+      "sequence": "0019",
+      "frame": 1057,
+      "split": "eval",
+      "clip": "0019-001049",
+      "source_crc": 792733888
+    },
+    {
+      "id": "training/image_02/0020/000000.png",
+      "sequence": "0020",
+      "frame": 0,
+      "split": "eval",
+      "clip": "0020-000000",
+      "source_crc": 2681071474
+    },
+    {
+      "id": "training/image_02/0020/000002.png",
+      "sequence": "0020",
+      "frame": 2,
+      "split": "eval",
+      "clip": "0020-000000",
+      "source_crc": 1274675336
+    },
+    {
+      "id": "training/image_02/0020/000004.png",
+      "sequence": "0020",
+      "frame": 4,
+      "split": "eval",
+      "clip": "0020-000000",
+      "source_crc": 874430249
+    },
+    {
+      "id": "training/image_02/0020/000006.png",
+      "sequence": "0020",
+      "frame": 6,
+      "split": "eval",
+      "clip": "0020-000000",
+      "source_crc": 2255864561
+    },
+    {
+      "id": "training/image_02/0020/000008.png",
+      "sequence": "0020",
+      "frame": 8,
+      "split": "eval",
+      "clip": "0020-000000",
+      "source_crc": 1562421563
+    },
+    {
+      "id": "training/image_02/0020/000165.png",
+      "sequence": "0020",
+      "frame": 165,
+      "split": "eval",
+      "clip": "0020-000165",
+      "source_crc": 2009584950
+    },
+    {
+      "id": "training/image_02/0020/000167.png",
+      "sequence": "0020",
+      "frame": 167,
+      "split": "eval",
+      "clip": "0020-000165",
+      "source_crc": 2191286550
+    },
+    {
+      "id": "training/image_02/0020/000169.png",
+      "sequence": "0020",
+      "frame": 169,
+      "split": "eval",
+      "clip": "0020-000165",
+      "source_crc": 1855389672
+    },
+    {
+      "id": "training/image_02/0020/000171.png",
+      "sequence": "0020",
+      "frame": 171,
+      "split": "eval",
+      "clip": "0020-000165",
+      "source_crc": 1744265000
+    },
+    {
+      "id": "training/image_02/0020/000173.png",
+      "sequence": "0020",
+      "frame": 173,
+      "split": "eval",
+      "clip": "0020-000165",
+      "source_crc": 970443358
+    },
+    {
+      "id": "training/image_02/0020/000331.png",
+      "sequence": "0020",
+      "frame": 331,
+      "split": "eval",
+      "clip": "0020-000331",
+      "source_crc": 398813879
+    },
+    {
+      "id": "training/image_02/0020/000333.png",
+      "sequence": "0020",
+      "frame": 333,
+      "split": "eval",
+      "clip": "0020-000331",
+      "source_crc": 3927351410
+    },
+    {
+      "id": "training/image_02/0020/000335.png",
+      "sequence": "0020",
+      "frame": 335,
+      "split": "eval",
+      "clip": "0020-000331",
+      "source_crc": 3246408009
+    },
+    {
+      "id": "training/image_02/0020/000337.png",
+      "sequence": "0020",
+      "frame": 337,
+      "split": "eval",
+      "clip": "0020-000331",
+      "source_crc": 2063276559
+    },
+    {
+      "id": "training/image_02/0020/000339.png",
+      "sequence": "0020",
+      "frame": 339,
+      "split": "eval",
+      "clip": "0020-000331",
+      "source_crc": 269099092
+    },
+    {
+      "id": "training/image_02/0020/000496.png",
+      "sequence": "0020",
+      "frame": 496,
+      "split": "eval",
+      "clip": "0020-000496",
+      "source_crc": 1729628535
+    },
+    {
+      "id": "training/image_02/0020/000498.png",
+      "sequence": "0020",
+      "frame": 498,
+      "split": "eval",
+      "clip": "0020-000496",
+      "source_crc": 2474546755
+    },
+    {
+      "id": "training/image_02/0020/000500.png",
+      "sequence": "0020",
+      "frame": 500,
+      "split": "eval",
+      "clip": "0020-000496",
+      "source_crc": 3421899760
+    },
+    {
+      "id": "training/image_02/0020/000502.png",
+      "sequence": "0020",
+      "frame": 502,
+      "split": "eval",
+      "clip": "0020-000496",
+      "source_crc": 1802568498
+    },
+    {
+      "id": "training/image_02/0020/000504.png",
+      "sequence": "0020",
+      "frame": 504,
+      "split": "eval",
+      "clip": "0020-000496",
+      "source_crc": 4233966224
+    },
+    {
+      "id": "training/image_02/0020/000662.png",
+      "sequence": "0020",
+      "frame": 662,
+      "split": "eval",
+      "clip": "0020-000662",
+      "source_crc": 2183652452
+    },
+    {
+      "id": "training/image_02/0020/000664.png",
+      "sequence": "0020",
+      "frame": 664,
+      "split": "eval",
+      "clip": "0020-000662",
+      "source_crc": 1125261831
+    },
+    {
+      "id": "training/image_02/0020/000666.png",
+      "sequence": "0020",
+      "frame": 666,
+      "split": "eval",
+      "clip": "0020-000662",
+      "source_crc": 3967258396
+    },
+    {
+      "id": "training/image_02/0020/000668.png",
+      "sequence": "0020",
+      "frame": 668,
+      "split": "eval",
+      "clip": "0020-000662",
+      "source_crc": 49376214
+    },
+    {
+      "id": "training/image_02/0020/000670.png",
+      "sequence": "0020",
+      "frame": 670,
+      "split": "eval",
+      "clip": "0020-000662",
+      "source_crc": 3612188557
+    },
+    {
+      "id": "training/image_02/0020/000827.png",
+      "sequence": "0020",
+      "frame": 827,
+      "split": "eval",
+      "clip": "0020-000827",
+      "source_crc": 873712004
+    },
+    {
+      "id": "training/image_02/0020/000829.png",
+      "sequence": "0020",
+      "frame": 829,
+      "split": "eval",
+      "clip": "0020-000827",
+      "source_crc": 2730013385
+    },
+    {
+      "id": "training/image_02/0020/000831.png",
+      "sequence": "0020",
+      "frame": 831,
+      "split": "eval",
+      "clip": "0020-000827",
+      "source_crc": 832616653
+    },
+    {
+      "id": "training/image_02/0020/000833.png",
+      "sequence": "0020",
+      "frame": 833,
+      "split": "eval",
+      "clip": "0020-000827",
+      "source_crc": 2517507070
+    },
+    {
+      "id": "training/image_02/0020/000835.png",
+      "sequence": "0020",
+      "frame": 835,
+      "split": "eval",
+      "clip": "0020-000827",
+      "source_crc": 1505941138
+    }
+  ],
+  "source_sequence_lengths": {
+    "0000": 154,
+    "0001": 447,
+    "0002": 233,
+    "0003": 144,
+    "0004": 314,
+    "0005": 297,
+    "0006": 270,
+    "0007": 800,
+    "0008": 390,
+    "0010": 294,
+    "0011": 373,
+    "0012": 78,
+    "0013": 340,
+    "0014": 106,
+    "0015": 376,
+    "0016": 209,
+    "0017": 145,
+    "0018": 339,
+    "0019": 1059,
+    "0020": 837
+  },
+  "sampling": "5Hz observations within six disjoint one-second clips per sequence; unobserved frames are not decode failures"
+}

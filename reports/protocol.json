@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "manifest": "cab07041fca6cf64566e2058f28c14cc2b17332329acc5e0d3c5c3b0cdf5f6e1",
+    "weights": "907ea3f91ff92242bc1baea8049276a3e76bca48ce7560bd268cc029f37977b5",
+    "sources": {
+      "scripts/experiment.py": "8839b5294c4ac29576723bde7cee3c25f755d537f8346032e6d76f7c92b47bcc",
+      "scripts/prepare.py": "4ddfc2f83afecec5d1e692b295dc221fa8744bfaf2759af360752036f83c713a",
+      "scripts/remote_zip.py": "486b45dfbebfe11aaabc067ce398a44fee922f2b91b7f0f095f12df3baaf982e",
+      "scripts/verify_public.py": "0c6085515ddc80020463a66111f42b3795cec75bbb2fb95295aa163b0f83cc6a",
+      "src/miner.py": "c1e9c3e8325c8b6268bfc3d3f4ba97152e75a6821edad6d026ddec4d2197b3ce"
+    },
+    "runner": "8839b5294c4ac29576723bde7cee3c25f755d537f8346032e6d76f7c92b47bcc",
+    "lock": "8221ef94b79baa672fcb5e397837b90a32cc4af9b4705bdd596eb63f7040dcc5",
+    "versions": {
+      "torch": "2.14.0",
+      "torchvision": "0.29.0",
+      "numpy": "2.5.3",
+      "Pillow": "12.3.0"
+    }
+  },
+  "seeds": [
+    101,
+    211,
+    307,
+    409,
+    503
+  ],
+  "methods": [
+    "random",
+    "uniform",
+    "dedup",
+    "appearance_facility",
+    "temporal"
+  ],
+  "budget_clips": 2,
+  "budget_seconds": 2,
+  "model": "torchvision fasterrcnn_mobilenet_v3_large_320_fpn COCO_V1; CPU float32 4 threads; no training",
+  "input": "RGB float32 [3,H,W], shorter side320/max640, score retention .05; 5Hz sampled observations of one-second 10Hz source clips",
+  "primary": "Mean per-heldout-sequence distinct missed-reference-track coverage temporal minus random; mean paired seeds then 2000 sequence bootstrap, seed 911205",
+  "reference": "Car and Pedestrian; box height>=25px, truncation<=.5, occlusion<=2; score>=.5 same-class IoU>=.5 one-to-one; failure track missed in >=2 observed frames in a clip; custom mining endpoint, NOT official KITTI AP/HOTA",
+  "method": "Greedy facility location on equal-weight concatenation of normalized mean RGB histograms and normalized mean absolute temporal histogram differences; no label input",
+  "statistics": "Evaluation is applying a frozen mining policy to unseen sequence pixels; reference labels read ONLY after all selections saved. No model selection, tuning or training on eval sequences. Pool and dev remain separate auxiliary policy checks; do not mix into primary.",
+  "stopping": "One frozen comparison, all failures retained; no search for positive result; zero-support sequence coverage stays null with explicit support, other metrics retained",
+  "boundaries": "20 source sequences, 6 disjoint clips each; two selected seconds per sequence; 5Hz observation misses faster events; KITTI small daytime scope; no proof of downstream training benefit"
+}
