@@ -27,7 +27,7 @@
 ```bash
 uv sync --locked --python 3.12
 uv run pytest -q
-uv run python scripts/verify_public.py
+uv run python portable_replay.py
 uv run streamlit run dashboard.py --server.address 127.0.0.1
 ```
 

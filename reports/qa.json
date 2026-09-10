@@ -1,5 +1,5 @@
 {
-  "tests": "8 passed",
+  "tests": "9 passed",
   "full_raw_reference_replay": "passed",
   "public_evidence_replay": "passed",
   "initial_segment": {
@@ -25,5 +25,6 @@
   "raw_inference_system_errors": 0,
   "frozen_commit": "24395a1",
   "status": "local evidence and actual browser verified",
-  "ui": "Actual localhost8523 browser screenshot inspected: primary +6.95, interval [-7.32,20.89], table and 12/12 support visible; AppTest eval/dev passed"
+  "ui": "Actual localhost8523 browser screenshot inspected: primary +6.95, interval [-7.32,20.89], table and 12/12 support visible; AppTest eval/dev passed",
+  "cross_platform": "Initial Linux exact selector replay failed at floating near-ties; portable witness validation preserves original decisions, checks optimality tolerance 1e-12, discrete budgets, metrics and bootstrap. Does not assert bitwise cross-platform selection."
 }
