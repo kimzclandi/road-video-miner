@@ -11,4 +11,4 @@ jobs:
       - run: uv sync --locked --python 3.12
       - run: uv run ruff check src scripts tests dashboard.py
       - run: uv run pytest -q
-      - run: uv run python scripts/verify_public.py
+      - run: uv run python portable_replay.py
