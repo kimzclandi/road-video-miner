@@ -1,0 +1,29 @@
+{
+  "tests": "8 passed",
+  "full_raw_reference_replay": "passed",
+  "public_evidence_replay": "passed",
+  "initial_segment": {
+    "computed": 7,
+    "cache_hits": 0
+  },
+  "resumed_segment": {
+    "computed": 593,
+    "cache_hits": 7
+  },
+  "complete_rerun": {
+    "computed": 0,
+    "cache_hits": 600
+  },
+  "inference_seconds": 44.67484958215937,
+  "failures": [
+    {
+      "stage": "data_download",
+      "error": "ReadTimeout",
+      "handling": "original log retained locally; cached CRC-checked frames reused on restart"
+    }
+  ],
+  "raw_inference_system_errors": 0,
+  "frozen_commit": "24395a1",
+  "status": "local evidence verified; remote publication pending",
+  "ui": "Actual localhost8523 browser screenshot inspected: primary +6.95, interval [-7.32,20.89], table and 12/12 support visible; AppTest eval/dev passed"
+}
