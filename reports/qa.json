@@ -24,6 +24,6 @@
   ],
   "raw_inference_system_errors": 0,
   "frozen_commit": "24395a1",
-  "status": "local evidence verified; remote publication pending",
+  "status": "local evidence and actual browser verified",
   "ui": "Actual localhost8523 browser screenshot inspected: primary +6.95, interval [-7.32,20.89], table and 12/12 support visible; AppTest eval/dev passed"
 }

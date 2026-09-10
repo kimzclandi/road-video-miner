@@ -1,0 +1,35 @@
+{
+  "scope": "one local policy pass after experiment; features already materialized; not hyperparameter selection",
+  "methods": {
+    "random": {
+      "total_seconds_20_sequences": 0.0003293759800726548,
+      "median_seconds_per_sequence": 6.145495717646554e-06,
+      "candidate_clips_per_sequence": 6,
+      "budget": 2
+    },
+    "uniform": {
+      "total_seconds_20_sequences": 0.00011507999442983419,
+      "median_seconds_per_sequence": 5.542002327274531e-06,
+      "candidate_clips_per_sequence": 6,
+      "budget": 2
+    },
+    "dedup": {
+      "total_seconds_20_sequences": 0.0003501249957480468,
+      "median_seconds_per_sequence": 1.5229001292027533e-05,
+      "candidate_clips_per_sequence": 6,
+      "budget": 2
+    },
+    "appearance_facility": {
+      "total_seconds_20_sequences": 0.0004199159884592518,
+      "median_seconds_per_sequence": 2.0562500139931217e-05,
+      "candidate_clips_per_sequence": 6,
+      "budget": 2
+    },
+    "temporal": {
+      "total_seconds_20_sequences": 0.0006189190098666586,
+      "median_seconds_per_sequence": 3.131249832222238e-05,
+      "candidate_clips_per_sequence": 6,
+      "budget": 2
+    }
+  }
+}
