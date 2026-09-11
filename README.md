@@ -1,16 +1,14 @@
-# Road Video Miner · 视频场景挖掘与时序去重
+# 道路序列片段选择与冗余分析
 
-**真实序列、相同时间预算、参考失败评测；没有下游训练。**
+[![CI](https://github.com/kimzclandi/road-video-miner/actions/workflows/ci.yml/badge.svg)](https://github.com/kimzclandi/road-video-miner/actions/workflows/ci.yml)
 
-20个KITTI序列 → 120个不重叠一秒片段 → 600帧CPU检测 → 无标签片段选择 → 逐序列参考轨迹评测。
+在 KITTI 的已解码 PNG 序列中，固定选取两秒片段时，时序信息是否有助于覆盖更多检测漏检轨迹？本项目比较随机、均匀时间、外观去重和时序覆盖选段，再用固定检测器与参考标签评价覆盖和冗余。
 
-时序覆盖方法相对随机的参考漏检轨迹覆盖差为 **+6.95个百分点**，12序列bootstrap区间 **[−7.32,+20.89]**。**不支持稳定优势**；均匀时间与仅外观覆盖的点估计都更高。保留全部负证据，不为追正结果改规则。
+实际处理 20 个序列、120 个不重叠的一秒片段，完成 600 帧 CPU 检测。外观特征为 RGB 直方图，时序特征为相邻直方图变化；选择采用贪心覆盖。它不是完整视频编解码或学习型时序理解系统。
 
-[中文实验报告](docs/REPORT.md) · [冻结设计与复现](docs/PROTOCOL_AND_REPRODUCE.md) · [岗位/面试](docs/INTERVIEW.md) · [原始结果](reports/result.json) · [本地验收](reports/qa.json)
+## 当前结果
 
-## 实际结果
-
-每序列选择2片段、2秒；下表为12个评测序列、五个预设配对seed上的描述均值。
+每序列选择 2 片段、2 秒；下表为 12 个评测序列、五个预设配对种子的描述均值。
 
 | 方法 | 参考漏检轨迹覆盖 | 总轨迹覆盖 | 重复轨迹比例↓ |
 |---|---:|---:|---:|
@@ -20,26 +18,32 @@
 | 仅外观覆盖消融 | 53.16% | 58.27% | 14.09% |
 | 时序覆盖 | 51.35% | 51.46% | 15.40% |
 
-更低外观冗余、更多失败命中、更高模型精度是三个不同命题。当前没有训练实验，不能声称检测精度或标注效率提升。
+时序相对随机 **+6.95 个百分点**，序列 bootstrap 区间 **[−7.32, +20.89]**，未证明稳定优势；均匀时间的点估计更高。外观冗余降低、失败覆盖增加和检测精度提高是不同问题，**本项目没有下游训练或训练收益证据**。
 
-## 运行
+[实验报告](docs/REPORT.md) · [原始结果](reports/result.json) · [协议与复现](docs/PROTOCOL_AND_REPRODUCE.md)
+
+## 查看与运行
 
 ```bash
 uv sync --locked --python 3.12
-uv run pytest -q
 uv run python portable_replay.py
 uv run streamlit run dashboard.py --server.address 127.0.0.1
 ```
 
-无需数据下载即可查看公开结果并重算选择及预算。独立参考标签重算、数据/权重获取和真实推理见[复现说明](docs/PROTOCOL_AND_REPRODUCE.md)。CPU600帧累计约44.7秒，另有下载、初始化与校验成本。独立虚拟环境与依赖锁，无付费API。
+无需下载原始数据即可浏览已保存结果。回放检查固定预算、原选择的贪心条件和指标；不是重新推理，也不保证跨平台生成位级相同的选择名单。完整图像/权重下载与原生复算见[运行说明](docs/PROTOCOL_AND_REPRODUCE.md)。
 
-## 核心实现
+## 实现与贡献范围
 
-- `src/miner.py`：时间/血缘契约，时序直方图特征，facility-location，参考匹配与覆盖评价。
-- `scripts/prepare.py`、`remote_zip.py`：固定名单，HTTP范围读取、ETag/CRC/SHA256校验，缺帧/解码/重复检查。
-- `scripts/experiment.py`：冻结身份、逐帧不可覆盖证据、错误保留、恢复、选择先于参考评价。
-- `reports/protocol.json`：模型、源码、预处理、数据、种子、主指标和统计单位。
+- [片段特征与选择](src/miner.py)：帧—片段—序列关系、时间预算、直方图特征与参考轨迹评测。
+- [数据准备](scripts/prepare.py)和[实验执行](scripts/experiment.py)：固定清单、下载校验、错误记录与中断恢复。
+- 使用上游预训练检测器与 KITTI 参考标签；未训练视频表征或目标跟踪模型。代码、测试与文档使用 AI 辅助开发。
 
-## 边界
+[实现讲解与练习](docs/INTERVIEW.md)为可选附件。
 
-KITTI非商业教育研究、CC BY-NC-SA 3.0；[归属及数据许可](DATA_LICENSE.md)。代码MIT不覆盖数据。数据为PNG序列，不是MP4编解码基准。原始图像/标注/权重不进Git。序列隔离不证明路线/采集日隔离；5Hz观测不能覆盖所有快速事件。参考端点为自定义Car/Pedestrian漏检轨迹覆盖，不是KITTI官方AP/HOTA。实现由AI辅助，作者必须亲自理解并通过面试中的解释和修改验证。
+## 主要限制
+
+序列隔离不证明路线或采集日隔离；5 Hz 观测可能遗漏快速事件。参考指标是自定义 Car/Pedestrian 漏检轨迹覆盖，不是 KITTI 官方 AP/HOTA，也不是独立人工裁决的真实驾驶失败。
+
+跨平台浮点近同分可能改变重生成名单；公开回放对历史贪心选择采用 1e-12 容差并重算指标，保留最初 Linux 严格复算失败记录和历史实现。
+
+原始图像、标签与模型权重不进 Git。代码 [MIT](LICENSE)；KITTI 数据遵循非商业教育研究及 CC BY-NC-SA 3.0 要求，见[数据归属](DATA_LICENSE.md)。
